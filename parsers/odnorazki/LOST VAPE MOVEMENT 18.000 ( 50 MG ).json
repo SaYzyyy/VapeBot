@@ -1,0 +1,47 @@
+{
+    "products": [
+        {
+            "id": "6d99d119-626e-11f0-0a80-197e0000888e",
+            "code": "00786",
+            "article": null,
+            "category": "ЭЛЕКТРОНКИ/LOST VAPE MOVEMENT 18.000 ( 50 MG )",
+            "categoryId": "46a32b11-626e-11f0-0a80-136100009fce",
+            "name": "ЭЛ.СИГ. LOST VAPE MOVEMENT 18.000 5% НИКОТИНА",
+            "description": null,
+            "imageURL": "https://tinyimage-prod.moysklad.ru/static/tinyimage/7bf0a89f-c191-11ee-0a80-00d6000033ae/tinyimage/ffc42cb8-f00e-4830-886a-f61f3789717b/t.png",
+            "imageURLMiniature": "https://miniature-prod.moysklad.ru/miniature/7bf0a89f-c191-11ee-0a80-00d6000033ae/documentminiature/ab948fea-e1c1-406a-88f6-97d527509cb5",
+            "imageURLOriginal": null,
+            "price": 420.0,
+            "vat": null,
+            "currency": "руб",
+            "uom": "шт",
+            "quantity": 0.0,
+            "stock": 0.0,
+            "assortmentClass": "com.lognex.onlineorder.model.remap.OnlineOrderProduct",
+            "isKit": false,
+            "available": true
+        },
+        {
+            "id": "99eac623-626e-11f0-0a80-197e00008ab5",
+            "code": "06658",
+            "article": null,
+            "category": "ЭЛЕКТРОНКИ/LOST VAPE MOVEMENT 18.000 ( 50 MG )",
+            "categoryId": "46a32b11-626e-11f0-0a80-136100009fce",
+            "name": "ЭЛ.СИГ. LOST VAPE MOVEMENT 18.000 5% НИКОТИНА (MIAMI MINT)",
+            "description": null,
+            "imageURL": "https://tinyimage-prod.moysklad.ru/static/tinyimage/7bf0a89f-c191-11ee-0a80-00d6000033ae/tinyimage/ffc42cb8-f00e-4830-886a-f61f3789717b/t.png",
+            "imageURLMiniature": "https://miniature-prod.moysklad.ru/miniature/7bf0a89f-c191-11ee-0a80-00d6000033ae/documentminiature/ab948fea-e1c1-406a-88f6-97d527509cb5",
+            "imageURLOriginal": null,
+            "price": 420.0,
+            "vat": null,
+            "currency": "руб",
+            "uom": "шт",
+            "quantity": 0.0,
+            "stock": 0.0,
+            "assortmentClass": "com.lognex.onlineorder.model.remap.OnlineOrderVariant",
+            "isKit": false,
+            "available": true
+        }
+    ],
+    "size": 2
+}

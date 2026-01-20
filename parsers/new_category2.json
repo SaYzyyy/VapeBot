@@ -1,0 +1,211 @@
+[{
+    "id": "8aab69d7-3d2c-11ef-0a80-0e9b0042249a",
+    "name": "AEGIS B60",
+    "pathName": "ПОД-СИСТЕМЫ/GEEKVAPE",
+    "parentId": "fd040318-3d28-11ef-0a80-0495003e5fcc",
+    "isWithSubcategory": false
+},{
+    "id": "d15ca13e-e719-11ef-0a80-10f00023d30e",
+    "name": "AEGIS BOOST 3",
+    "pathName": "ПОД-СИСТЕМЫ/GEEKVAPE",
+    "parentId": "fd040318-3d28-11ef-0a80-0495003e5fcc",
+    "isWithSubcategory": false
+},{
+    "id": "b92c7519-3d2c-11ef-0a80-06520040c0de",
+    "name": "AEGIS HERO 2",
+    "pathName": "ПОД-СИСТЕМЫ/GEEKVAPE",
+    "parentId": "fd040318-3d28-11ef-0a80-0495003e5fcc",
+    "isWithSubcategory": false
+},{
+    "id": "0a8110bd-e71a-11ef-0a80-0ec900229144",
+    "name": "AEGIS HERO 2 RTE",
+    "pathName": "ПОД-СИСТЕМЫ/GEEKVAPE",
+    "parentId": "fd040318-3d28-11ef-0a80-0495003e5fcc",
+    "isWithSubcategory": false
+},{
+    "id": "6961e776-92f2-11f0-0a80-142b000ee2fc",
+    "name": "AEGIS HERO 5",
+    "pathName": "ПОД-СИСТЕМЫ/GEEKVAPE",
+    "parentId": "fd040318-3d28-11ef-0a80-0495003e5fcc",
+    "isWithSubcategory": false
+},{
+    "id": "ea92015d-e719-11ef-0a80-051c0022932f",
+    "name": "AEGIS HERO Q",
+    "pathName": "ПОД-СИСТЕМЫ/GEEKVAPE",
+    "parentId": "fd040318-3d28-11ef-0a80-0495003e5fcc",
+    "isWithSubcategory": false
+},{
+    "id": "c02ba884-3d2c-11ef-0a80-155400408a0c",
+    "name": "AEGIS NANO 2",
+    "pathName": "ПОД-СИСТЕМЫ/GEEKVAPE",
+    "parentId": "fd040318-3d28-11ef-0a80-0495003e5fcc",
+    "isWithSubcategory": false
+},{
+    "id": "ca3679aa-e719-11ef-0a80-0944002302da",
+    "name": "GEEKVAPE DIGI MAX R",
+    "pathName": "ПОД-СИСТЕМЫ/GEEKVAPE",
+    "parentId": "fd040318-3d28-11ef-0a80-0495003e5fcc",
+    "isWithSubcategory": false
+},{
+    "id": "bb98ee8b-e719-11ef-0a80-033800231929",
+    "name": "GEEKVAPE DIGI PRO R",
+    "pathName": "ПОД-СИСТЕМЫ/GEEKVAPE",
+    "parentId": "fd040318-3d28-11ef-0a80-0495003e5fcc",
+    "isWithSubcategory": false
+},{
+    "id": "4fbd6fd0-3d65-11ef-0a80-0f580001b3c8",
+    "name": "MANTO AIO PLUS",
+    "pathName": "ПОД-СИСТЕМЫ/RINCOE",
+    "parentId": "3d18bdd2-3d29-11ef-0a80-13aa00421c07",
+    "isWithSubcategory": false
+},{
+    "id": "53b7251d-e721-11ef-0a80-10f00023f5e5",
+    "name": "CHARON RACER",
+    "pathName": "ПОД-СИСТЕМЫ/SMOANT",
+    "parentId": "c16a5fa3-3d28-11ef-0a80-016c003fd200",
+    "isWithSubcategory": false
+},{
+    "id": "515f2938-3d2b-11ef-0a80-065200407920",
+    "name": "KNIGHT 40",
+    "pathName": "ПОД-СИСТЕМЫ/SMOANT",
+    "parentId": "c16a5fa3-3d28-11ef-0a80-016c003fd200",
+    "isWithSubcategory": false
+},{
+    "id": "4b87687a-3d2b-11ef-0a80-0f55003fb3d8",
+    "name": "KNIGHT 80",
+    "pathName": "ПОД-СИСТЕМЫ/SMOANT",
+    "parentId": "c16a5fa3-3d28-11ef-0a80-016c003fd200",
+    "isWithSubcategory": false
+},{
+    "id": "d0c05d7d-3d2a-11ef-0a80-0764003ffb15",
+    "name": "KNIGHT Q",
+    "pathName": "ПОД-СИСТЕМЫ/SMOANT",
+    "parentId": "c16a5fa3-3d28-11ef-0a80-016c003fd200",
+    "isWithSubcategory": false
+},{
+    "id": "d96aa749-3d2a-11ef-0a80-13aa00427eab",
+    "name": "LEVIN KIT",
+    "pathName": "ПОД-СИСТЕМЫ/SMOANT",
+    "parentId": "c16a5fa3-3d28-11ef-0a80-016c003fd200",
+    "isWithSubcategory": false
+},{
+    "id": "1bf6155b-3d2b-11ef-0a80-0495003ef008",
+    "name": "PASITO 2",
+    "pathName": "ПОД-СИСТЕМЫ/SMOANT",
+    "parentId": "c16a5fa3-3d28-11ef-0a80-016c003fd200",
+    "isWithSubcategory": false
+},{
+    "id": "fc655ee8-3d2a-11ef-0a80-0e9b0041be33",
+    "name": "SANTI",
+    "pathName": "ПОД-СИСТЕМЫ/SMOANT",
+    "parentId": "c16a5fa3-3d28-11ef-0a80-016c003fd200",
+    "isWithSubcategory": false
+},{
+    "id": "fb002ad0-e724-11ef-0a80-051c0022c762",
+    "name": "VAPORESSO APEX",
+    "pathName": "ПОД-СИСТЕМЫ/VAPORESSO",
+    "parentId": "ee52c7b7-3d28-11ef-0a80-1024003f2571",
+    "isWithSubcategory": false
+},{
+    "id": "a75a07be-e723-11ef-0a80-185200235381",
+    "name": "VAPORESSO ARMOUR G",
+    "pathName": "ПОД-СИСТЕМЫ/VAPORESSO",
+    "parentId": "ee52c7b7-3d28-11ef-0a80-1024003f2571",
+    "isWithSubcategory": false
+},{
+    "id": "d6819883-e723-11ef-0a80-00b50022cddb",
+    "name": "VAPORESSO  ARMOUR GS",
+    "pathName": "ПОД-СИСТЕМЫ/VAPORESSO",
+    "parentId": "ee52c7b7-3d28-11ef-0a80-1024003f2571",
+    "isWithSubcategory": false
+},{
+    "id": "f65866a9-e723-11ef-0a80-094400233988",
+    "name": "VAPORESSO  LUXE X",
+    "pathName": "ПОД-СИСТЕМЫ/VAPORESSO",
+    "parentId": "ee52c7b7-3d28-11ef-0a80-1024003f2571",
+    "isWithSubcategory": false
+},{
+    "id": "36bac080-e724-11ef-0a80-0338002354ab",
+    "name": "VAPORESSO  LUXE XR",
+    "pathName": "ПОД-СИСТЕМЫ/VAPORESSO",
+    "parentId": "ee52c7b7-3d28-11ef-0a80-1024003f2571",
+    "isWithSubcategory": false
+},{
+    "id": "8786c799-3d2b-11ef-0a80-076400402628",
+    "name": "VAPORESSO XROS 2",
+    "pathName": "ПОД-СИСТЕМЫ/VAPORESSO",
+    "parentId": "ee52c7b7-3d28-11ef-0a80-1024003f2571",
+    "isWithSubcategory": false
+},{
+    "id": "ce465ac8-3d2b-11ef-0a80-0e9b0041f4a3",
+    "name": "VAPORESSO XROS 3 MINI",
+    "pathName": "ПОД-СИСТЕМЫ/VAPORESSO",
+    "parentId": "ee52c7b7-3d28-11ef-0a80-1024003f2571",
+    "isWithSubcategory": false
+},{
+    "id": "d70fadec-3d2b-11ef-0a80-11700041a0e9",
+    "name": "VAPORESSO XROS 4",
+    "pathName": "ПОД-СИСТЕМЫ/VAPORESSO",
+    "parentId": "ee52c7b7-3d28-11ef-0a80-1024003f2571",
+    "isWithSubcategory": false
+},{
+    "id": "0c804f12-3d2c-11ef-0a80-09d80041c0fd",
+    "name": "VAPORESSO XROS 4 MINI",
+    "pathName": "ПОД-СИСТЕМЫ/VAPORESSO",
+    "parentId": "ee52c7b7-3d28-11ef-0a80-1024003f2571",
+    "isWithSubcategory": false
+},{
+    "id": "8fc8f544-347d-11f0-0a80-1adf0041d368",
+    "name": "VAPORESSO XROS 5",
+    "pathName": "ПОД-СИСТЕМЫ/VAPORESSO",
+    "parentId": "ee52c7b7-3d28-11ef-0a80-1024003f2571",
+    "isWithSubcategory": false
+},{
+    "id": "a9eb615a-347d-11f0-0a80-0835003c89b7",
+    "name": "VAPORESSO XROS 5 MINI",
+    "pathName": "ПОД-СИСТЕМЫ/VAPORESSO",
+    "parentId": "ee52c7b7-3d28-11ef-0a80-1024003f2571",
+    "isWithSubcategory": false
+},{
+    "id": "bb440b0e-3d2b-11ef-0a80-15540040539e",
+    "name": "VAPORESSO XROS MINI",
+    "pathName": "ПОД-СИСТЕМЫ/VAPORESSO",
+    "parentId": "ee52c7b7-3d28-11ef-0a80-1024003f2571",
+    "isWithSubcategory": false
+},{
+    "id": "b1e4dedc-3d2b-11ef-0a80-065200408d4f",
+    "name": "VAPORESSO XROS NANO 4",
+    "pathName": "ПОД-СИСТЕМЫ/VAPORESSO",
+    "parentId": "ee52c7b7-3d28-11ef-0a80-1024003f2571",
+    "isWithSubcategory": false
+},{
+    "id": "5cae926a-3d2b-11ef-0a80-0f55003fb694",
+    "name": "VAPORESSO XROS PRO",
+    "pathName": "ПОД-СИСТЕМЫ/VAPORESSO",
+    "parentId": "ee52c7b7-3d28-11ef-0a80-1024003f2571",
+    "isWithSubcategory": false
+},{
+    "id": "b2c87f9e-a52d-11f0-0a80-18e9000022c9",
+    "name": "VAPORESSO XROS PRO 2",
+    "pathName": "ПОД-СИСТЕМЫ/VAPORESSO",
+    "parentId": "ee52c7b7-3d28-11ef-0a80-1024003f2571",
+    "isWithSubcategory": false
+},{
+    "id": "073d97e9-e726-11ef-0a80-161100251b00",
+    "name": "VOOPOO DRAG S2",
+    "pathName": "ПОД-СИСТЕМЫ/VOOPOO",
+    "parentId": "35574069-3d29-11ef-0a80-0652003fb958",
+    "isWithSubcategory": false
+},{
+    "id": "be25285d-e725-11ef-0a80-09440023414d",
+    "name": "VOOPOO DRAG X 2",
+    "pathName": "ПОД-СИСТЕМЫ/VOOPOO",
+    "parentId": "35574069-3d29-11ef-0a80-0652003fb958",
+    "isWithSubcategory": false
+},{
+    "id": "f2459859-3d2c-11ef-0a80-0495003f58f3",
+    "name": "VOOPOO VMATE PRO",
+    "pathName": "ПОД-СИСТЕМЫ/VOOPOO",
+    "parentId": "35574069-3d29-11ef-0a80-0652003fb958",
+    "isWithSubcategory": false
+}]

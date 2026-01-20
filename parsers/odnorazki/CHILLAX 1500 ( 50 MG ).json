@@ -1,0 +1,47 @@
+{
+    "products": [
+        {
+            "id": "009d81dd-4099-11ef-0a80-16070018bffa",
+            "code": "00420",
+            "article": null,
+            "category": "ЭЛЕКТРОНКИ/CHILLAX 1500 ( 50 MG )",
+            "categoryId": "2fc3bf6a-d511-11ef-0a80-01d20012d14e",
+            "name": "ЭЛ.СИГ. CHILLAX 1500 ЗАТЯЖЕК 5% НИКОТИНА",
+            "description": null,
+            "imageURL": "https://tinyimage-prod.moysklad.ru/static/tinyimage/7bf0a89f-c191-11ee-0a80-00d6000033ae/tinyimage/ba26ebb4-45b8-4a5b-a8d2-d315b6679a25/t.png",
+            "imageURLMiniature": "https://miniature-prod.moysklad.ru/miniature/7bf0a89f-c191-11ee-0a80-00d6000033ae/documentminiature/c8820f80-10eb-40ce-85aa-7a7eddb2ddbe",
+            "imageURLOriginal": null,
+            "price": 160.0,
+            "vat": null,
+            "currency": "руб",
+            "uom": "шт",
+            "quantity": 0.0,
+            "stock": -2.0,
+            "assortmentClass": "com.lognex.onlineorder.model.remap.OnlineOrderProduct",
+            "isKit": false,
+            "available": true
+        },
+        {
+            "id": "0c340911-4099-11ef-0a80-09100019b212",
+            "code": "02167",
+            "article": null,
+            "category": "ЭЛЕКТРОНКИ/CHILLAX 1500 ( 50 MG )",
+            "categoryId": "2fc3bf6a-d511-11ef-0a80-01d20012d14e",
+            "name": "ЭЛ.СИГ. CHILLAX 1500 ЗАТЯЖЕК 5% НИКОТИНА (Дынный молочный коктейль)",
+            "description": null,
+            "imageURL": "https://tinyimage-prod.moysklad.ru/static/tinyimage/7bf0a89f-c191-11ee-0a80-00d6000033ae/tinyimage/ba26ebb4-45b8-4a5b-a8d2-d315b6679a25/t.png",
+            "imageURLMiniature": "https://miniature-prod.moysklad.ru/miniature/7bf0a89f-c191-11ee-0a80-00d6000033ae/documentminiature/c8820f80-10eb-40ce-85aa-7a7eddb2ddbe",
+            "imageURLOriginal": null,
+            "price": 160.0,
+            "vat": null,
+            "currency": "руб",
+            "uom": "шт",
+            "quantity": 0.0,
+            "stock": 0.0,
+            "assortmentClass": "com.lognex.onlineorder.model.remap.OnlineOrderVariant",
+            "isKit": false,
+            "available": true
+        }
+    ],
+    "size": 2
+}

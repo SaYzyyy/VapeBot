@@ -1,0 +1,601 @@
+[{
+    "id": "7077f02a-c12e-11f0-0a80-1aae000678af",
+    "name": "AAOK 17.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "b9216892-4920-11f0-0a80-0926003686e6",
+    "name": "ARTERY 50.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "28a321e5-97e0-11f0-0a80-01600000f42a",
+    "name": "BEYOND 20.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "98c7ad16-c132-11f0-0a80-01d000076e7a",
+    "name": "BIMO GALAXY 50.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "3e6caeac-c143-11f0-0a80-0c96000b58f6",
+    "name": "BOOD TWINS 46.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "70f27e91-97df-11f0-0a80-00700000d9b1",
+    "name": "BOU 18.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "6d5fd7aa-59c9-11f0-0a80-0dc8001ac11b",
+    "name": "BRUSKO & LANAVAPE 5000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "0a5373a1-ee22-11ef-0a80-084e001458b5",
+    "name": "BUBBLE MON 10.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "23b385f7-bc9e-11f0-0a80-09780019b4ec",
+    "name": "BUBBLE MON 15.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "2fc3bf6a-d511-11ef-0a80-01d20012d14e",
+    "name": "CHILLAX 1500 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "cd9c3cb3-ab05-11ef-0a80-0e3300334a76",
+    "name": "CHILLAX AIR PRO 4500 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "f7dfbf5e-c123-11f0-0a80-0bbe00044898",
+    "name": "CHILLAX SHAKE 25.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "e57ee77c-97de-11f0-0a80-1c600000c946",
+    "name": "CHRIS BROWN 15.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "869c2faa-f76b-11ef-0a80-1919000f82fd",
+    "name": "COMPAK 15000 ( 20 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "767e7e95-d7d9-11ef-0a80-068e004183a3",
+    "name": "DOWIN 15.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "30dfe5ce-331a-11f0-0a80-0f86002ead7e",
+    "name": "ELF BAR BC 18.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "a014e23b-d512-11ef-0a80-16cd00134e63",
+    "name": "ELF BAR FS 18.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "bdd6f16c-d512-11ef-0a80-19c600130ccf",
+    "name": "ELF BAR GH 23.000 ( 60 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "948311c3-9847-11f0-0a80-17d80004b6f4",
+    "name": "ELF BAR GH 33.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "4b5eab3f-ee20-11ef-0a80-084e00144532",
+    "name": "ELF BAR ICE KING 30.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "2a6904bd-331b-11f0-0a80-055a002f444a",
+    "name": "ELF BAR NIC KING 30.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "34f94bb6-d7ef-11ef-0a80-03bf00446bf6",
+    "name": "ELF BAR PLANET 25.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "7a826dad-9878-11f0-0a80-06660010be82",
+    "name": "ELF BAR SOUR KING 30.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "dc4883e6-9878-11f0-0a80-072e00106fe0",
+    "name": "ELF BAR SWEET KING 30.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "b6a7f05f-331a-11f0-0a80-03ee002e1382",
+    "name": "ELF BAR TOUCH 20.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "85b5a91c-1301-11f0-0a80-0c530023ef80",
+    "name": "ELUX 15000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "e3d1821e-3c8e-11f0-0a80-015000113c9f",
+    "name": "FIREROSE JUST  FILL IT 7500 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "9f59679d-97e0-11f0-0a80-1bc20000ee21",
+    "name": "FLABAR 25.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "4a9e9550-d513-11ef-0a80-11f50012df27",
+    "name": "FUNKY LANDS 10.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "61eedaf9-d513-11ef-0a80-024e0012cf86",
+    "name": "FUNKY LANDS 15.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "6f6839c6-d513-11ef-0a80-068e0015d2bf",
+    "name": "FUNKY LANDS 7000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "1fbecbb4-d514-11ef-0a80-072500135cb4",
+    "name": "GEEK BAR WATT 20.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "48c8e3a8-d0cf-11ef-0a80-0e6f001f021f",
+    "name": "HQD 5000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "eb14b0a6-c148-11f0-0a80-027c000c34fa",
+    "name": "IJOY URANUS 25.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "8ed5cb54-4926-11f0-0a80-13c80036c81b",
+    "name": "INFLAVE FLEX 12.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "4e970f6f-4927-11f0-0a80-02480035b091",
+    "name": "INFLAVE ONYX 18.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "ea62d721-ede9-11ef-0a80-1637000d23cd",
+    "name": "INFLAVE SPIN 8000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "31b63650-ede9-11ef-0a80-04c1000c9bf8",
+    "name": "INSTABAR 20.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "574422bd-c152-11f0-0a80-0098000d761a",
+    "name": "IZY MAX 5000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "b4d95e9a-c151-11f0-0a80-139d000dd1a7",
+    "name": "IZY MEGA 10.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "7cefc487-99f9-11f0-0a80-1506000bb162",
+    "name": "KLIKLAK 4000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "da56505d-c137-11f0-0a80-01d000088d07",
+    "name": "LEAF BAR 8000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "a6cd18bb-d514-11ef-0a80-024e0012d2f5",
+    "name": "LOST MARY 10.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "ad1f6d6b-d514-11ef-0a80-024e0012d2fa",
+    "name": "LOST MARY 16.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "bff4afb9-9887-11f0-0a80-1c600012a2e1",
+    "name": "LOST MARY COMBO 20.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "1b9553a8-af71-11f0-0a80-0c0d0014f197",
+    "name": "LOST MARY & FUNKY LANDS  SONIC 30.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "3d6cad30-af7c-11f0-0a80-17210015ada3",
+    "name": "LOST MARY & FUNKY LANDS SONIC - X ( БЕЗ ДЫМА ) 30.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "ba74f31a-3c03-11f0-0a80-112300016760",
+    "name": "LOST MARY &  FUNKY LANDS VIPER 30000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "65c6dec4-fe65-11ef-0a80-1693000c4e2d",
+    "name": "LOST MARY MIXER 25.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "8e084ef7-4921-11f0-0a80-0b8b00352c46",
+    "name": "LOST MARY  MO 30.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "bd55d68f-d514-11ef-0a80-01d20012dda8",
+    "name": "LOST MARY MO GOLD 10.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "53da04bf-3c04-11f0-0a80-0b66000195c3",
+    "name": "LOST MARY OS 25.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "7e9c661b-9846-11f0-0a80-06660004c1af",
+    "name": "LOST MARY PUFFBALL 30.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "03fa677a-3d48-11f0-0a80-0d93000cdf0e",
+    "name": "LOST MARY  X-LINK 20000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "5b31fe1e-f062-11f0-0a80-1bbb00098418",
+    "name": "LOST MARY X-LINK  КАРТРИДЖ 20000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "46a32b11-626e-11f0-0a80-136100009fce",
+    "name": "LOST VAPE MOVEMENT 18.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "cfeb304b-c130-11f0-0a80-1bf70006ab8f",
+    "name": "MASKKING ROKI X 18.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "b61cec38-f762-11ef-0a80-15b9000f5a43",
+    "name": "MAX FLY 30000 + НАУШНИКИ  ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "1760175d-f764-11ef-0a80-141f000fd53b",
+    "name": "MAX FLY 46000 + НАУШНИКИ  ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "1b310307-f761-11ef-0a80-141f000f9678",
+    "name": "MAX FLY  SMARTPHONE ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "f53d0488-95fa-11ef-0a80-0b850014bbff",
+    "name": "MFU 40.000 ( 20 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "3825f392-bca2-11f0-0a80-15c3001b51b4",
+    "name": "MOBO 18.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "29c64760-4d11-11f0-0a80-17e20011c081",
+    "name": "MONSTER BARS 6000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "3f60067a-f767-11ef-0a80-1a36000fe07d",
+    "name": "MOSMO GT 40000 ( 20 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "e2309e9d-f765-11ef-0a80-1919000f2a69",
+    "name": "MOSMO SAGE 40000 ( 20 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "d3912604-f764-11ef-0a80-15b9000f8eab",
+    "name": "MOSMO STORM X 16000 ( 20 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "0513309a-a1b9-11ef-0a80-06b60010d136",
+    "name": "MOTI  ULTRA MAX 15.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "c701bf85-97dd-11f0-0a80-1bc20000d062",
+    "name": "NEXA 30.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "59752297-eef9-11ef-0a80-08550001241d",
+    "name": "PODONKI 10.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "52e03da4-97dd-11f0-0a80-09100000b435",
+    "name": "PRAZE 18.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "f06decc0-97dc-11f0-0a80-02c00000ada9",
+    "name": "PRAZE 20.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "01949703-d516-11ef-0a80-07250013619d",
+    "name": "PUFFMI DUMESH 10.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "4a506801-987b-11f0-0a80-1c60001060aa",
+    "name": "PUFFMI DURA 8000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "2731c7fb-d516-11ef-0a80-0d210012beeb",
+    "name": "PUFFMI DURA 9000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "a1ec7b92-9845-11f0-0a80-17d800045591",
+    "name": "PUFFMI FLORA 25.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "1caa9860-d516-11ef-0a80-10ba0013ad72",
+    "name": "PUFFMI PURE 12.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "84f9e1ca-331e-11f0-0a80-18b0002e2fec",
+    "name": "PUFFMI PURE  20000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "1b0b63cc-331d-11f0-0a80-055a002f668d",
+    "name": "PUFFMI ROCK 12.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "c1437519-331d-11f0-0a80-09e0002ed09a",
+    "name": "PUFFMI TANK 16.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "e81cf3fd-99f8-11f0-0a80-0f50000b872d",
+    "name": "PURE 4000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "71089b39-d516-11ef-0a80-172a0012dbe6",
+    "name": "SMOD 30.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "6312fd42-3319-11f0-0a80-0f86002ea137",
+    "name": "SNOOPY SMOKE 40.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "de3dfcd4-626e-11f0-0a80-03c70000be76",
+    "name": "SOLARIS 25.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "9ab90672-c145-11f0-0a80-0bbe000b9aab",
+    "name": "SOLO BAR 50.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "fa605d4e-74c7-11ef-0a80-18b70009b2b7",
+    "name": "TWINENGINE 15.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "a1dbd3dc-cec1-11f0-0a80-0d2f0052edd1",
+    "name": "UPENDS BT 18.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "67f8086b-cec2-11f0-0a80-1a0e0052aca7",
+    "name": "UPENDS MIRROR PRO  15.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "55d51411-cec0-11f0-0a80-140200529723",
+    "name": "UPENDS STAR X  20.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "6dfeaee5-cec3-11f0-0a80-0d2f00534104",
+    "name": "VFLY 32.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "d8c3065a-2749-11f0-0a80-06960028f7fa",
+    "name": "VOZOL GEAR SHISHA 25.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "03bedb3b-d517-11ef-0a80-11f50012f862",
+    "name": "VOZOL POWER 20.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "fa7ea86a-4924-11f0-0a80-17c800362e6f",
+    "name": "VOZOL RAVE 46.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "09b038d9-d517-11ef-0a80-03bf0012c02a",
+    "name": "VOZOL VISTA 20.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "3b9a8f6d-d517-11ef-0a80-16cd00135fb6",
+    "name": "VVILD 28.000 ( 70 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "2bdb8a90-f855-11ef-0a80-115900006314",
+    "name": "WAKA E.T 35.000 ( 70 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "3cdd967b-f855-11ef-0a80-1a3900006118",
+    "name": "WAKA E.T 41.000 ( 70 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "4339ff0b-af32-11f0-0a80-1721000c68f3",
+    "name": "WAKA EXTRA 20.000 ( 80 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "6366211b-a833-11f0-0a80-17f700358b29",
+    "name": "WAKA XLAND 15.000 ( 70 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "6bd94996-9f77-11ef-0a80-13520027a26f",
+    "name": "YOOZ 25.000 ( ТЕЛЕФОН ) ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+},{
+    "id": "08ef4e56-ee34-11ef-0a80-14050015134e",
+    "name": "РИК И МОРТИ НА ЗАМЕРЗОНЕ  20.000 ( 50 MG )",
+    "pathName": "ЭЛЕКТРОНКИ",
+    "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+    "isWithSubcategory": false
+}]
