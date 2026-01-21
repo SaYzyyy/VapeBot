@@ -1,0 +1,441 @@
+[{
+    "id": "69e5aaf8-d4af-11ef-0a80-03bf0007a791",
+    "name": "ADVENTURE TIME ( 50 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},
+{
+    "id": "b384fb32-9ecd-11f0-0a80-07040011e5f5",
+    "name": "ANGRY VAPE UPGRADE ( 70 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},
+{
+    "id": "358ca5eb-b99a-11f0-0a80-0d500032b73c",
+    "name": "ANNIMA LOVE ( 60 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "3abaaf34-b99a-11f0-0a80-091a003169b8",
+    "name": "ANNIMA LOVE SOUR ( 60 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "3cfd77ec-43a4-11f0-0a80-061700183f1d",
+    "name": "BLACK OUT \"BY ГРЕХ\" (  40 MG  )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "4802867e-ab60-11f0-0a80-03e200107634",
+    "name": "CAMEL ( 20 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "0386cec4-c491-11f0-0a80-06cb0013e333",
+    "name": "CANDY TRIP ( 50 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "272a848d-3a48-11ef-0a80-0bf80001f222",
+    "name": "CATSWILL ( 50 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "dd341983-fa78-11ef-0a80-0be700219c70",
+    "name": "CATSWILL & ICE FOX ( ICEBERG ) ( 70 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "d934c74c-89af-11ef-0a80-0b58006255f4",
+    "name": "CATSWILL & MALASIAN",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "e07ffc4b-89af-11ef-0a80-0e8c0063e3ee",
+    "name": "CATSWILL SOUR ( 50 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "3e1f3257-ae22-11ef-0a80-01f2008e333c",
+    "name": "CS | COUNTER STRIKE ( 70 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "8f2d3865-3a43-11ef-0a80-0bf80001d14a",
+    "name": "DAY ( 60 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "a5c512da-dcbc-11f0-0a80-0d130009696c",
+    "name": "DICH & MALASIAN ( 50 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "bc59a2df-3d08-11ef-0a80-0bf800377ace",
+    "name": "DOTA ( 50 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "d42368ed-6f27-11ef-0a80-06870003454c",
+    "name": "DRILL ( 50 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "602a68bf-3a3e-11ef-0a80-1170000289b8",
+    "name": "DUALL ( 50 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "d360d773-ad9c-11f0-0a80-1bd900083edf",
+    "name": "DUALL EXTRA ( 70 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "1ceab210-99ff-11f0-0a80-02cc000ced23",
+    "name": "FLAV ( 30 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "8ee2091c-d509-11ef-0a80-0c970012cc9c",
+    "name": "HOTSPOT FUEL UP ( 50 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "37cc026d-1487-11f0-0a80-07f70012d8df",
+    "name": "HOTSPOT MORPH ( 50 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "d697bdc2-66ed-11f0-0a80-02a2000d90c7",
+    "name": "HOTSPOT & PODONKI  RESONANCE  ( 70 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "627e240c-d50c-11ef-0a80-0c970012d792",
+    "name": "HUSKY DOUBLE ICE ( 20 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "676427f6-d50c-11ef-0a80-068e0015bb5f",
+    "name": "HUSKY MALAYSIAN ( 20 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "ba54f652-16ba-11f0-0a80-09c80009ca14",
+    "name": "ISTERIKA MIX ( 60 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "4a333787-6f30-11ef-0a80-176200048f97",
+    "name": "MAD ( 70 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "3294ed1d-3871-11f0-0a80-11f80016a522",
+    "name": "MAD & САМОУБИЙЦА V2  ( 70 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "88c74672-b017-11f0-0a80-082f0026a29e",
+    "name": "MONSTER ( 50 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "a72ca115-d50b-11ef-0a80-0e8a001325b4",
+    "name": "MONSTERVAPOR  ( 20 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "b05a78be-d50b-11ef-0a80-0c970012d385",
+    "name": "MONSTERVAPOR ( 50 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "1b957f66-d50a-11ef-0a80-19c60012eab9",
+    "name": "NARCOZ  ( 20 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "21f01e58-d50a-11ef-0a80-10ba00137653",
+    "name": "NARCOZ ( 50 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "0be66a38-3a44-11ef-0a80-0e9b0001fb71",
+    "name": "NIGHT ( 20 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "dd27638f-6e0b-11f0-0a80-04dd00246f36",
+    "name": "OGGO PREMIUM ( 40 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "78db6328-b7cb-11ef-0a80-05540011638f",
+    "name": "PHOBIA ( 50 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "0095e34c-7a8e-11f0-0a80-1434002c9820",
+    "name": "PHOBIA & MRAZZ! ( 70 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "72b3229e-a299-11f0-0a80-192900450047",
+    "name": "PHOBIA & АНАРХИЯ ( 70 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "53cd6129-f039-11ef-0a80-14130009c31b",
+    "name": "PODONKI & ISTERIKA ( 50 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "0a96c408-d50d-11ef-0a80-0e8a00132a5d",
+    "name": "PODONKI LAST HAP ( 60 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "59f5c8d6-a4da-11f0-0a80-03c3002e38d5",
+    "name": "PODONKI LIGHT ( 20 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "bc95ee03-dcb8-11f0-0a80-190b0008c2f8",
+    "name": "PODONKI & MALASIAN ARCADE ( 50 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "beb2c3f4-a4d8-11f0-0a80-192d002d496c",
+    "name": "PODONKI MALASIAN NEW ( 50 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "798b093d-e3a8-11ef-0a80-0ea7001db25b",
+    "name": "PODONKI PODGON ( 50 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "e9e6e74c-dcd9-11f0-0a80-1823000f7e5c",
+    "name": "PODONKI SOUR ( 60 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "9a530fe9-a40c-11ef-0a80-176b001dd6f2",
+    "name": "RELL LOW COST ( 40 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "40b2f3c1-95d4-11ef-0a80-19d6000a71e7",
+    "name": "RELL ORANGE ( 20 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "1b0c720a-95d4-11ef-0a80-173e000a462e",
+    "name": "RELL ULTIMA ( 20 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "4087257d-89b0-11ef-0a80-02960061b14a",
+    "name": "RICK AND MORTY BAD ACID ( 60 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "8589d94f-b705-11ef-0a80-1a9500129a15",
+    "name": "RICK AND MORTY BAD ICE ( 60 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "812573d2-3a44-11ef-0a80-06520001f742",
+    "name": "RICK AND MORTY BAD TRIP ( 60 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "c7eea8ce-0312-11f0-0a80-1196002b7b57",
+    "name": "RICK AND MORTY ZOMBIE ( 20 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "11e225fd-7736-11ef-0a80-17e2000ba650",
+    "name": "SAYONARA ( 60 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "26e00e91-1aa7-11f0-0a80-071f0009c1d1",
+    "name": "SCAMMERS ( 50 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "3edf30ae-a2a4-11ef-0a80-080300000bf2",
+    "name": "SKALA ( 20 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "b7884dbd-3a3f-11ef-0a80-0bf80001b0c8",
+    "name": "SKALA ( 50 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "aba8a71c-6f2e-11ef-0a80-05cf00043637",
+    "name": "SNG ( 60 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "956777b6-fb3e-11ef-0a80-1ab3000a9166",
+    "name": "SYMBIOS ( 60 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "dbcd8fdc-5b2d-11f0-0a80-180400319146",
+    "name": "TOYZ CYBER ACID ( 20 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "fc615d41-96b8-11ef-0a80-11610011896b",
+    "name": "TRAVA UP ( 20 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "19248dd5-4784-11f0-0a80-1b7d001e8b80",
+    "name": "YUMMY ( 20 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "54ad671f-4786-11f0-0a80-13c80020b7e3",
+    "name": "YUMMY ( 70  MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "89f038d2-7728-11ef-0a80-00890008ce88",
+    "name": "ZONG ( 20 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "a39f038f-3a3d-11ef-0a80-0f550001b307",
+    "name": "АНАРХИЯ V2  ( 60 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "7c18e024-5669-11f0-0a80-1336000d6586",
+    "name": "ГРЕХ & ISTERIKA ( 60 MG  )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "836dd646-dcbe-11f0-0a80-02d00009ad46",
+    "name": "ГРЕХ LIGHT ( 40 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "7641bf16-3d0f-11ef-0a80-0f5500386203",
+    "name": "ГРЕХ REMAKE  ( 60 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "f281dbd2-9572-11ef-0a80-061400028000",
+    "name": "ГРЕХ & САМОУБИЙЦА ( 70 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "49281017-a4d9-11f0-0a80-0ce7002d82b1",
+    "name": "ЖНЕЦ ( 70 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "16733915-25be-11f0-0a80-15980010478c",
+    "name": "ЗЛАЯ МОНАШКА ICE ( 70 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "12c41bec-fe80-11ef-0a80-138b0012a809",
+    "name": "ЗЛАЯ МОНАШКА SOUR & TPL ( 70 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "336ed8f2-ec5f-11ef-0a80-13a2002042b6",
+    "name": "МРАК ( 60 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "2eb5a672-dcc1-11f0-0a80-0093000a4120",
+    "name": "РИК И МОРТИ  НА ЗАМЕРЗОНЕ КИСЛЫЕ  ( 20 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+},{
+    "id": "81942ed6-d50e-11ef-0a80-0d210012a166",
+    "name": "САМОУБИЙЦА V2 ( 70 MG )",
+    "pathName": "ЖИДКОСТИ 30 МЛ",
+    "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+    "isWithSubcategory": false
+}]

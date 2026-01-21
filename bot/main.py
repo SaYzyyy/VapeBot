@@ -2,7 +2,7 @@ from aiogram import Bot, Dispatcher
 import asyncio
 import os
 from dotenv import load_dotenv
-from handlers import Register_Routes
+from handlers.__init__ import Register_Routes
 from aiogram.client.default import DefaultBotProperties
 from aiogram.enums import ParseMode
 
