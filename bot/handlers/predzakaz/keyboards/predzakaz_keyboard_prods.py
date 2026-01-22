@@ -8,7 +8,6 @@ import os
 
 def show_prods(file, number):
     builder = InlineKeyboardBuilder()
-    print(file)
     emojis = '🥰😍😘🥵😳🤯🤫😮🥱😎😛😋😌🙃😆😅😏🤩'
     if os.path.exists(f"/Users/sayzyyy/PycharmProjects/VapeBot/bot/handlers/predzakaz/keyboards/parsers/zhizha/{file.replace("_", " ")}0 MG ).json"):
         with open(f"/Users/sayzyyy/PycharmProjects/VapeBot/bot/handlers/predzakaz/keyboards/parsers/zhizha/{file.replace("_", " ")}0 MG ).json", "r", encoding="utf-8") as f:

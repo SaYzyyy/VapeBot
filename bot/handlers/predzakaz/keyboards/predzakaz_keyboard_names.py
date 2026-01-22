@@ -37,8 +37,12 @@ def predzakaz_keyboard_names(folder, number):
                 callback_data="predzakaz"
             ))
 
-
-    if (len(os.listdir("/Users/sayzyyy/PycharmProjects/VapeBot/bot/handlers/predzakaz/keyboards/parsers/zhizha")) < number) or (len(os.listdir("/Users/sayzyyy/PycharmProjects/VapeBot/bot/handlers/predzakaz/keyboards/parsers/zhizha")) == number):
+    if (len(os.listdir("/Users/sayzyyy/PycharmProjects/VapeBot/bot/handlers/predzakaz/keyboards/parsers/zhizha")) < number) and number == 10:
+        builder.add(InlineKeyboardButton(
+            text="Назад к выбору типа <-",
+            callback_data="predzakaz"
+        ))
+    elif (len(os.listdir("/Users/sayzyyy/PycharmProjects/VapeBot/bot/handlers/predzakaz/keyboards/parsers/zhizha")) < number) or (len(os.listdir("/Users/sayzyyy/PycharmProjects/VapeBot/bot/handlers/predzakaz/keyboards/parsers/zhizha")) == number):
         builder.add(InlineKeyboardButton(
             text="Назад <-",
             callback_data="back_zhizha"

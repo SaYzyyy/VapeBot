@@ -42,7 +42,12 @@ def show_prods_pods(file, number):
                         text="Назад к выбору типа <-",
                         callback_data="predzakaz"
                     ))
-            if (len(data) < number) or (len(data) == number):
+            if (len(data) < number) and number == 10:
+                builder.add(InlineKeyboardButton(
+                    text="Назад к выбору типа <-",
+                    callback_data="predzakaz"
+                ))
+            elif (len(data) < number) or (len(data) == number):
                 builder.add(InlineKeyboardButton(
                     text="Назад <-",
                     callback_data="back_pod"

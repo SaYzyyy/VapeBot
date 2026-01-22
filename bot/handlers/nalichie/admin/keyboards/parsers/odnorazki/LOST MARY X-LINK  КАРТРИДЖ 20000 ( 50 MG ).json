@@ -1,0 +1,47 @@
+{
+    "products": [
+        {
+            "id": "9bcbd0c0-f062-11f0-0a80-106800094be1",
+            "code": "00899",
+            "article": null,
+            "category": "ЭЛЕКТРОНКИ/LOST MARY X-LINK  КАРТРИДЖ 20000 ( 50 MG )",
+            "categoryId": "5b31fe1e-f062-11f0-0a80-1bbb00098418",
+            "name": "КАРТРИДЖ LOST MARY X-LINK 20000 5% НИКОТИНА",
+            "description": null,
+            "imageURL": null,
+            "imageURLMiniature": null,
+            "imageURLOriginal": null,
+            "price": 570.0,
+            "vat": null,
+            "currency": "руб",
+            "uom": "шт",
+            "quantity": 0.0,
+            "stock": 0.0,
+            "assortmentClass": "com.lognex.onlineorder.model.remap.OnlineOrderProduct",
+            "isKit": false,
+            "available": true
+        },
+        {
+            "id": "a3abfeb2-f062-11f0-0a80-15d8000a5c65",
+            "code": "08128",
+            "article": null,
+            "category": "ЭЛЕКТРОНКИ/LOST MARY X-LINK  КАРТРИДЖ 20000 ( 50 MG )",
+            "categoryId": "5b31fe1e-f062-11f0-0a80-1bbb00098418",
+            "name": "КАРТРИДЖ LOST MARY X-LINK 20000 5% НИКОТИНА (30 ВКУСОВ МИКСОМ)",
+            "description": null,
+            "imageURL": null,
+            "imageURLMiniature": null,
+            "imageURLOriginal": null,
+            "price": 570.0,
+            "vat": null,
+            "currency": "руб",
+            "uom": "шт",
+            "quantity": 0.0,
+            "stock": 0.0,
+            "assortmentClass": "com.lognex.onlineorder.model.remap.OnlineOrderVariant",
+            "isKit": false,
+            "available": true
+        }
+    ],
+    "size": 2
+}

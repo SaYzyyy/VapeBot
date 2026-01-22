@@ -1,0 +1,47 @@
+{
+    "products": [
+        {
+            "id": "123f688a-626f-11f0-0a80-197e00008ee2",
+            "code": "00787",
+            "article": null,
+            "category": "ЭЛЕКТРОНКИ/SOLARIS 25.000 ( 50 MG )",
+            "categoryId": "de3dfcd4-626e-11f0-0a80-03c70000be76",
+            "name": "ЭЛ. СИГ. SOLARIS 25.000 5% НИКОТИНА",
+            "description": null,
+            "imageURL": "https://tinyimage-prod.moysklad.ru/static/tinyimage/7bf0a89f-c191-11ee-0a80-00d6000033ae/tinyimage/510901ae-7b9c-494f-a1b9-75fb56bb6df6/t.png",
+            "imageURLMiniature": "https://miniature-prod.moysklad.ru/miniature/7bf0a89f-c191-11ee-0a80-00d6000033ae/documentminiature/082b9dae-c0d5-464d-9844-3528ca898c5f",
+            "imageURLOriginal": null,
+            "price": 400.0,
+            "vat": null,
+            "currency": "руб",
+            "uom": "шт",
+            "quantity": 0.0,
+            "stock": 0.0,
+            "assortmentClass": "com.lognex.onlineorder.model.remap.OnlineOrderProduct",
+            "isKit": false,
+            "available": true
+        },
+        {
+            "id": "2e87190b-626f-11f0-0a80-15510000beb6",
+            "code": "06665",
+            "article": null,
+            "category": "ЭЛЕКТРОНКИ/SOLARIS 25.000 ( 50 MG )",
+            "categoryId": "de3dfcd4-626e-11f0-0a80-03c70000be76",
+            "name": "ЭЛ. СИГ. SOLARIS 25.000 5% НИКОТИНА (COOL MINT)",
+            "description": null,
+            "imageURL": "https://tinyimage-prod.moysklad.ru/static/tinyimage/7bf0a89f-c191-11ee-0a80-00d6000033ae/tinyimage/510901ae-7b9c-494f-a1b9-75fb56bb6df6/t.png",
+            "imageURLMiniature": "https://miniature-prod.moysklad.ru/miniature/7bf0a89f-c191-11ee-0a80-00d6000033ae/documentminiature/082b9dae-c0d5-464d-9844-3528ca898c5f",
+            "imageURLOriginal": null,
+            "price": 400.0,
+            "vat": null,
+            "currency": "руб",
+            "uom": "шт",
+            "quantity": 0.0,
+            "stock": 0.0,
+            "assortmentClass": "com.lognex.onlineorder.model.remap.OnlineOrderVariant",
+            "isKit": false,
+            "available": true
+        }
+    ],
+    "size": 2
+}

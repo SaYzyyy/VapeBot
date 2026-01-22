@@ -1,0 +1,2319 @@
+[
+    {
+        "id": "6eebb4aa-3d28-11ef-0a80-11700040d706",
+        "name": "АККУМУЛЯТОРЫ",
+        "pathName": "",
+        "parentId": "",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "8be3d0d9-beda-11f0-0a80-0ddd000921ff",
+        "name": "БОНУС",
+        "pathName": "",
+        "parentId": "",
+        "isWithSubcategory": true
+    },
+    {
+        "id": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "name": "ЖИДКОСТИ 30 МЛ",
+        "pathName": "",
+        "parentId": "",
+        "isWithSubcategory": true
+    },
+    {
+        "id": "0fbea1fc-c733-11ee-0a80-0e1c000d33bb",
+        "name": "ИСПАРИТЕЛИ",
+        "pathName": "",
+        "parentId": "",
+        "isWithSubcategory": true
+    },
+    {
+        "id": "24e30a7a-c733-11ee-0a80-131e000d97b8",
+        "name": "КАРТРИДЖИ",
+        "pathName": "",
+        "parentId": "",
+        "isWithSubcategory": true
+    },
+    {
+        "id": "9cbbd5f7-906b-11ef-0a80-08c50013e22a",
+        "name": "НИКОТИНОВЫЕ ПЛАСТИНКИ",
+        "pathName": "",
+        "parentId": "",
+        "isWithSubcategory": true
+    },
+    {
+        "id": "e1625410-3a23-11ef-0a80-1024000026e8",
+        "name": "ПОД-СИСТЕМЫ",
+        "pathName": "",
+        "parentId": "",
+        "isWithSubcategory": true
+    },
+    {
+        "id": "61d02ab2-74e1-11ef-0a80-13bf0010726a",
+        "name": "СНЮС",
+        "pathName": "",
+        "parentId": "",
+        "isWithSubcategory": true
+    },
+    {
+        "id": "a5df25ef-771f-11ef-0a80-0f280005c3c0",
+        "name": "УСЛУГА",
+        "pathName": "",
+        "parentId": "",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "name": "ЭЛЕКТРОНКИ",
+        "pathName": "",
+        "parentId": "",
+        "isWithSubcategory": true
+    },
+    {
+        "id": "a60c7abf-beda-11f0-0a80-139400093f54",
+        "name": "РАНДОМ",
+        "pathName": "БОНУС",
+        "parentId": "8be3d0d9-beda-11f0-0a80-0ddd000921ff",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "69e5aaf8-d4af-11ef-0a80-03bf0007a791",
+        "name": "ADVENTURE TIME ( 50 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "b384fb32-9ecd-11f0-0a80-07040011e5f5",
+        "name": "ANGRY VAPE UPGRADE ( 70 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "358ca5eb-b99a-11f0-0a80-0d500032b73c",
+        "name": "ANNIMA LOVE ( 60 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "3abaaf34-b99a-11f0-0a80-091a003169b8",
+        "name": "ANNIMA LOVE SOUR ( 60 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "3cfd77ec-43a4-11f0-0a80-061700183f1d",
+        "name": "BLACK OUT \"BY ГРЕХ\" (  40 MG  )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "4802867e-ab60-11f0-0a80-03e200107634",
+        "name": "CAMEL ( 20 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "0386cec4-c491-11f0-0a80-06cb0013e333",
+        "name": "CANDY TRIP ( 50 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "272a848d-3a48-11ef-0a80-0bf80001f222",
+        "name": "CATSWILL ( 50 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "dd341983-fa78-11ef-0a80-0be700219c70",
+        "name": "CATSWILL & ICE FOX ( ICEBERG ) ( 70 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "d934c74c-89af-11ef-0a80-0b58006255f4",
+        "name": "CATSWILL & MALASIAN",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "e07ffc4b-89af-11ef-0a80-0e8c0063e3ee",
+        "name": "CATSWILL SOUR ( 50 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "3e1f3257-ae22-11ef-0a80-01f2008e333c",
+        "name": "CS | COUNTER STRIKE ( 70 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "8f2d3865-3a43-11ef-0a80-0bf80001d14a",
+        "name": "DAY ( 60 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "a5c512da-dcbc-11f0-0a80-0d130009696c",
+        "name": "DICH & MALASIAN ( 50 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "bc59a2df-3d08-11ef-0a80-0bf800377ace",
+        "name": "DOTA ( 50 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "d42368ed-6f27-11ef-0a80-06870003454c",
+        "name": "DRILL ( 50 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "602a68bf-3a3e-11ef-0a80-1170000289b8",
+        "name": "DUALL ( 50 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "d360d773-ad9c-11f0-0a80-1bd900083edf",
+        "name": "DUALL EXTRA ( 70 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "1ceab210-99ff-11f0-0a80-02cc000ced23",
+        "name": "FLAV ( 30 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "8ee2091c-d509-11ef-0a80-0c970012cc9c",
+        "name": "HOTSPOT FUEL UP ( 50 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "37cc026d-1487-11f0-0a80-07f70012d8df",
+        "name": "HOTSPOT MORPH ( 50 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "d697bdc2-66ed-11f0-0a80-02a2000d90c7",
+        "name": "HOTSPOT & PODONKI  RESONANCE  ( 70 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "627e240c-d50c-11ef-0a80-0c970012d792",
+        "name": "HUSKY DOUBLE ICE ( 20 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "676427f6-d50c-11ef-0a80-068e0015bb5f",
+        "name": "HUSKY MALAYSIAN ( 20 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "ba54f652-16ba-11f0-0a80-09c80009ca14",
+        "name": "ISTERIKA MIX ( 60 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "4a333787-6f30-11ef-0a80-176200048f97",
+        "name": "MAD ( 70 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "3294ed1d-3871-11f0-0a80-11f80016a522",
+        "name": "MAD & САМОУБИЙЦА V2  ( 70 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "88c74672-b017-11f0-0a80-082f0026a29e",
+        "name": "MONSTER ( 50 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "a72ca115-d50b-11ef-0a80-0e8a001325b4",
+        "name": "MONSTERVAPOR  ( 20 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "b05a78be-d50b-11ef-0a80-0c970012d385",
+        "name": "MONSTERVAPOR ( 50 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "1b957f66-d50a-11ef-0a80-19c60012eab9",
+        "name": "NARCOZ  ( 20 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "21f01e58-d50a-11ef-0a80-10ba00137653",
+        "name": "NARCOZ ( 50 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "0be66a38-3a44-11ef-0a80-0e9b0001fb71",
+        "name": "NIGHT ( 20 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "dd27638f-6e0b-11f0-0a80-04dd00246f36",
+        "name": "OGGO PREMIUM ( 40 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "78db6328-b7cb-11ef-0a80-05540011638f",
+        "name": "PHOBIA ( 50 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "0095e34c-7a8e-11f0-0a80-1434002c9820",
+        "name": "PHOBIA & MRAZZ! ( 70 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "72b3229e-a299-11f0-0a80-192900450047",
+        "name": "PHOBIA & АНАРХИЯ ( 70 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "53cd6129-f039-11ef-0a80-14130009c31b",
+        "name": "PODONKI & ISTERIKA ( 50 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "0a96c408-d50d-11ef-0a80-0e8a00132a5d",
+        "name": "PODONKI LAST HAP ( 60 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "59f5c8d6-a4da-11f0-0a80-03c3002e38d5",
+        "name": "PODONKI LIGHT ( 20 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "bc95ee03-dcb8-11f0-0a80-190b0008c2f8",
+        "name": "PODONKI & MALASIAN ARCADE ( 50 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "beb2c3f4-a4d8-11f0-0a80-192d002d496c",
+        "name": "PODONKI MALASIAN NEW ( 50 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "798b093d-e3a8-11ef-0a80-0ea7001db25b",
+        "name": "PODONKI PODGON ( 50 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "e9e6e74c-dcd9-11f0-0a80-1823000f7e5c",
+        "name": "PODONKI SOUR ( 60 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "9a530fe9-a40c-11ef-0a80-176b001dd6f2",
+        "name": "RELL LOW COST ( 40 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "40b2f3c1-95d4-11ef-0a80-19d6000a71e7",
+        "name": "RELL ORANGE ( 20 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "1b0c720a-95d4-11ef-0a80-173e000a462e",
+        "name": "RELL ULTIMA ( 20 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "4087257d-89b0-11ef-0a80-02960061b14a",
+        "name": "RICK AND MORTY BAD ACID ( 60 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "8589d94f-b705-11ef-0a80-1a9500129a15",
+        "name": "RICK AND MORTY BAD ICE ( 60 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "812573d2-3a44-11ef-0a80-06520001f742",
+        "name": "RICK AND MORTY BAD TRIP ( 60 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "c7eea8ce-0312-11f0-0a80-1196002b7b57",
+        "name": "RICK AND MORTY ZOMBIE ( 20 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "11e225fd-7736-11ef-0a80-17e2000ba650",
+        "name": "SAYONARA ( 60 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "26e00e91-1aa7-11f0-0a80-071f0009c1d1",
+        "name": "SCAMMERS ( 50 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "3edf30ae-a2a4-11ef-0a80-080300000bf2",
+        "name": "SKALA ( 20 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "b7884dbd-3a3f-11ef-0a80-0bf80001b0c8",
+        "name": "SKALA ( 50 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "aba8a71c-6f2e-11ef-0a80-05cf00043637",
+        "name": "SNG ( 60 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "956777b6-fb3e-11ef-0a80-1ab3000a9166",
+        "name": "SYMBIOS ( 60 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "dbcd8fdc-5b2d-11f0-0a80-180400319146",
+        "name": "TOYZ CYBER ACID ( 20 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "fc615d41-96b8-11ef-0a80-11610011896b",
+        "name": "TRAVA UP ( 20 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "19248dd5-4784-11f0-0a80-1b7d001e8b80",
+        "name": "YUMMY ( 20 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "54ad671f-4786-11f0-0a80-13c80020b7e3",
+        "name": "YUMMY ( 70  MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "89f038d2-7728-11ef-0a80-00890008ce88",
+        "name": "ZONG ( 20 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "a39f038f-3a3d-11ef-0a80-0f550001b307",
+        "name": "АНАРХИЯ V2  ( 60 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "7c18e024-5669-11f0-0a80-1336000d6586",
+        "name": "ГРЕХ & ISTERIKA ( 60 MG  )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "836dd646-dcbe-11f0-0a80-02d00009ad46",
+        "name": "ГРЕХ LIGHT ( 40 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "7641bf16-3d0f-11ef-0a80-0f5500386203",
+        "name": "ГРЕХ REMAKE  ( 60 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "f281dbd2-9572-11ef-0a80-061400028000",
+        "name": "ГРЕХ & САМОУБИЙЦА ( 70 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "49281017-a4d9-11f0-0a80-0ce7002d82b1",
+        "name": "ЖНЕЦ ( 70 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "16733915-25be-11f0-0a80-15980010478c",
+        "name": "ЗЛАЯ МОНАШКА ICE ( 70 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "12c41bec-fe80-11ef-0a80-138b0012a809",
+        "name": "ЗЛАЯ МОНАШКА SOUR & TPL ( 70 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "336ed8f2-ec5f-11ef-0a80-13a2002042b6",
+        "name": "МРАК ( 60 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "2eb5a672-dcc1-11f0-0a80-0093000a4120",
+        "name": "РИК И МОРТИ  НА ЗАМЕРЗОНЕ КИСЛЫЕ  ( 20 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "81942ed6-d50e-11ef-0a80-0d210012a166",
+        "name": "САМОУБИЙЦА V2 ( 70 MG )",
+        "pathName": "ЖИДКОСТИ 30 МЛ",
+        "parentId": "3e543a4b-c71c-11ee-0a80-08ec0006da92",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "2edae83f-3d15-11ef-0a80-0e9b003bc1f3",
+        "name": "GEEKVAPE",
+        "pathName": "ИСПАРИТЕЛИ",
+        "parentId": "0fbea1fc-c733-11ee-0a80-0e1c000d33bb",
+        "isWithSubcategory": true
+    },
+    {
+        "id": "66daa014-3d17-11ef-0a80-09d8003c0807",
+        "name": "RINCOE",
+        "pathName": "ИСПАРИТЕЛИ",
+        "parentId": "0fbea1fc-c733-11ee-0a80-0e1c000d33bb",
+        "isWithSubcategory": true
+    },
+    {
+        "id": "984200e8-3d10-11ef-0a80-076400393305",
+        "name": "SMOANT",
+        "pathName": "ИСПАРИТЕЛИ",
+        "parentId": "0fbea1fc-c733-11ee-0a80-0e1c000d33bb",
+        "isWithSubcategory": true
+    },
+    {
+        "id": "cbe557f7-757a-11ef-0a80-1778001ed43d",
+        "name": "VAPORESSO",
+        "pathName": "ИСПАРИТЕЛИ",
+        "parentId": "0fbea1fc-c733-11ee-0a80-0e1c000d33bb",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "9a9b692b-3d19-11ef-0a80-09d8003c9dde",
+        "name": "VOOPOO",
+        "pathName": "ИСПАРИТЕЛИ",
+        "parentId": "0fbea1fc-c733-11ee-0a80-0e1c000d33bb",
+        "isWithSubcategory": true
+    },
+    {
+        "id": "4548ffde-4bfc-11ef-0a80-146700370000",
+        "name": "B-SERIES",
+        "pathName": "ИСПАРИТЕЛИ/GEEKVAPE",
+        "parentId": "2edae83f-3d15-11ef-0a80-0e9b003bc1f3",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "58febc3c-4bfc-11ef-0a80-10d00035ea98",
+        "name": "P-SERIES",
+        "pathName": "ИСПАРИТЕЛИ/GEEKVAPE",
+        "parentId": "2edae83f-3d15-11ef-0a80-0e9b003bc1f3",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "9a010fb8-4c01-11ef-0a80-13790037189a",
+        "name": "JELLY BOX COIL",
+        "pathName": "ИСПАРИТЕЛИ/RINCOE",
+        "parentId": "66daa014-3d17-11ef-0a80-09d8003c0807",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "8e446400-4c01-11ef-0a80-00d00037496a",
+        "name": "MANTO AIO COIL",
+        "pathName": "ИСПАРИТЕЛИ/RINCOE",
+        "parentId": "66daa014-3d17-11ef-0a80-09d8003c0807",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "7ba88295-757c-11ef-0a80-0697001fb318",
+        "name": "MANTO AIO RBA",
+        "pathName": "ИСПАРИТЕЛИ/RINCOE",
+        "parentId": "66daa014-3d17-11ef-0a80-09d8003c0807",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "d7ac2858-4c01-11ef-0a80-1162003a7f85",
+        "name": "BATTLESTAR BABY COIL",
+        "pathName": "ИСПАРИТЕЛИ/SMOANT",
+        "parentId": "984200e8-3d10-11ef-0a80-076400393305",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "1712292c-4c02-11ef-0a80-00d000375812",
+        "name": "KNIGHT 80 / PASITO 2 COIL",
+        "pathName": "ИСПАРИТЕЛИ/SMOANT",
+        "parentId": "984200e8-3d10-11ef-0a80-076400393305",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "9acbcfbe-4c02-11ef-0a80-00d0003763b5",
+        "name": "PASITO 1 COIL",
+        "pathName": "ИСПАРИТЕЛИ/SMOANT",
+        "parentId": "984200e8-3d10-11ef-0a80-076400393305",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "30d0befe-4c02-11ef-0a80-072c0037f362",
+        "name": "PASITO MINI COIL",
+        "pathName": "ИСПАРИТЕЛИ/SMOANT",
+        "parentId": "984200e8-3d10-11ef-0a80-076400393305",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "ed0f04c7-4c01-11ef-0a80-0f97003812ad",
+        "name": "SANTI S-COIL",
+        "pathName": "ИСПАРИТЕЛИ/SMOANT",
+        "parentId": "984200e8-3d10-11ef-0a80-076400393305",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "86ce9b8b-4c07-11ef-0a80-159e00393c25",
+        "name": "ITO COIL",
+        "pathName": "ИСПАРИТЕЛИ/VOOPOO",
+        "parentId": "9a9b692b-3d19-11ef-0a80-09d8003c9dde",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "a665850d-4c07-11ef-0a80-0f970038a4d9",
+        "name": "PNP TW COIL",
+        "pathName": "ИСПАРИТЕЛИ/VOOPOO",
+        "parentId": "9a9b692b-3d19-11ef-0a80-09d8003c9dde",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "8c5859be-4c07-11ef-0a80-16210038871e",
+        "name": "PNP VM COIL",
+        "pathName": "ИСПАРИТЕЛИ/VOOPOO",
+        "parentId": "9a9b692b-3d19-11ef-0a80-09d8003c9dde",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "10ca8ff8-3d28-11ef-0a80-0e9b0040e79b",
+        "name": "BRUSKO",
+        "pathName": "КАРТРИДЖИ",
+        "parentId": "24e30a7a-c733-11ee-0a80-131e000d97b8",
+        "isWithSubcategory": true
+    },
+    {
+        "id": "b4784511-3d25-11ef-0a80-13aa00413b71",
+        "name": "GEEKVAPE",
+        "pathName": "КАРТРИДЖИ",
+        "parentId": "24e30a7a-c733-11ee-0a80-131e000d97b8",
+        "isWithSubcategory": true
+    },
+    {
+        "id": "0b777a50-c5fc-11f0-0a80-00ad000ba83d",
+        "name": "HELLVAPE",
+        "pathName": "КАРТРИДЖИ",
+        "parentId": "24e30a7a-c733-11ee-0a80-131e000d97b8",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "f6caad6c-3d23-11ef-0a80-1554003e4dde",
+        "name": "SMOANT",
+        "pathName": "КАРТРИДЖИ",
+        "parentId": "24e30a7a-c733-11ee-0a80-131e000d97b8",
+        "isWithSubcategory": true
+    },
+    {
+        "id": "efbc52f5-3d21-11ef-0a80-0495003c645f",
+        "name": "VAPORESSO",
+        "pathName": "КАРТРИДЖИ",
+        "parentId": "24e30a7a-c733-11ee-0a80-131e000d97b8",
+        "isWithSubcategory": true
+    },
+    {
+        "id": "2e09edc0-3d27-11ef-0a80-13aa004199c3",
+        "name": "VOOPOO",
+        "pathName": "КАРТРИДЖИ",
+        "parentId": "24e30a7a-c733-11ee-0a80-131e000d97b8",
+        "isWithSubcategory": true
+    },
+    {
+        "id": "c9812411-4c07-11ef-0a80-0d8e0038b39e",
+        "name": "MINICAN",
+        "pathName": "КАРТРИДЖИ/BRUSKO",
+        "parentId": "10ca8ff8-3d28-11ef-0a80-0e9b0040e79b",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "477ebb39-4c08-11ef-0a80-146700384fc4",
+        "name": "AEGIS B100",
+        "pathName": "КАРТРИДЖИ/GEEKVAPE",
+        "parentId": "b4784511-3d25-11ef-0a80-13aa00413b71",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "5ce38260-4c08-11ef-0a80-159e00395c11",
+        "name": "AEGIS B60",
+        "pathName": "КАРТРИДЖИ/GEEKVAPE",
+        "parentId": "b4784511-3d25-11ef-0a80-13aa00413b71",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "3830d3bf-4c08-11ef-0a80-1162003b3c35",
+        "name": "AEGIS HERO 2",
+        "pathName": "КАРТРИДЖИ/GEEKVAPE",
+        "parentId": "b4784511-3d25-11ef-0a80-13aa00413b71",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "b7cdd9dd-4c08-11ef-0a80-159e00396824",
+        "name": "GEEK VAPE Q",
+        "pathName": "КАРТРИДЖИ/GEEKVAPE",
+        "parentId": "b4784511-3d25-11ef-0a80-13aa00413b71",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "99deffc5-4c08-11ef-0a80-00d0003830f4",
+        "name": "SOUNDER U / DIGI U",
+        "pathName": "КАРТРИДЖИ/GEEKVAPE",
+        "parentId": "b4784511-3d25-11ef-0a80-13aa00413b71",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "442314c4-4c09-11ef-0a80-0f970038d411",
+        "name": "CHARON PLUS",
+        "pathName": "КАРТРИДЖИ/SMOANT",
+        "parentId": "f6caad6c-3d23-11ef-0a80-1554003e4dde",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "4ae0065b-4c09-11ef-0a80-04800039926d",
+        "name": "KNIGHT 40 / 80",
+        "pathName": "КАРТРИДЖИ/SMOANT",
+        "parentId": "f6caad6c-3d23-11ef-0a80-1554003e4dde",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "30707f50-4c09-11ef-0a80-0d8e0038d9f3",
+        "name": "KNIGHT Q",
+        "pathName": "КАРТРИДЖИ/SMOANT",
+        "parentId": "f6caad6c-3d23-11ef-0a80-1554003e4dde",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "58b11f8d-4c09-11ef-0a80-039000377694",
+        "name": "PASITO 1 / 2",
+        "pathName": "КАРТРИДЖИ/SMOANT",
+        "parentId": "f6caad6c-3d23-11ef-0a80-1554003e4dde",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "372d1b87-4c09-11ef-0a80-072c0038b856",
+        "name": "PASITO MINI",
+        "pathName": "КАРТРИДЖИ/SMOANT",
+        "parentId": "f6caad6c-3d23-11ef-0a80-1554003e4dde",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "5da53c79-4c09-11ef-0a80-16210038d09e",
+        "name": "SANTI",
+        "pathName": "КАРТРИДЖИ/SMOANT",
+        "parentId": "f6caad6c-3d23-11ef-0a80-1554003e4dde",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "d9cc2665-4c09-11ef-0a80-0d8e0038ec8a",
+        "name": "BAR",
+        "pathName": "КАРТРИДЖИ/VAPORESSO",
+        "parentId": "efbc52f5-3d21-11ef-0a80-0495003c645f",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "ded365ca-4c09-11ef-0a80-00d0003857f6",
+        "name": "LUXE X",
+        "pathName": "КАРТРИДЖИ/VAPORESSO",
+        "parentId": "efbc52f5-3d21-11ef-0a80-0495003c645f",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "d44e371e-4c09-11ef-0a80-159e00399f1b",
+        "name": "XROS 2ML И  3ML",
+        "pathName": "КАРТРИДЖИ/VAPORESSO",
+        "parentId": "efbc52f5-3d21-11ef-0a80-0495003c645f",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "20228978-4c0a-11ef-0a80-04800039a5a7",
+        "name": "ARGUS",
+        "pathName": "КАРТРИДЖИ/VOOPOO",
+        "parentId": "2e09edc0-3d27-11ef-0a80-13aa004199c3",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "151328c9-4c0a-11ef-0a80-159e0039a52b",
+        "name": "VINCI V2",
+        "pathName": "КАРТРИДЖИ/VOOPOO",
+        "parentId": "2e09edc0-3d27-11ef-0a80-13aa004199c3",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "0d1fcabf-4c0a-11ef-0a80-0d8e0038f09e",
+        "name": "VMATE V2",
+        "pathName": "КАРТРИДЖИ/VOOPOO",
+        "parentId": "2e09edc0-3d27-11ef-0a80-13aa004199c3",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "f3925929-f005-11f0-0a80-0d9400013ade",
+        "name": "ПЛАСТИНКИ DOZA by FAFF",
+        "pathName": "НИКОТИНОВЫЕ ПЛАСТИНКИ",
+        "parentId": "9cbbd5f7-906b-11ef-0a80-08c50013e22a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "36acc082-f473-11ef-0a80-183400010886",
+        "name": "ПЛАСТИНКИ HYPE",
+        "pathName": "НИКОТИНОВЫЕ ПЛАСТИНКИ",
+        "parentId": "9cbbd5f7-906b-11ef-0a80-08c50013e22a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "6c68262b-3bec-11f0-0a80-18d200008046",
+        "name": "ПЛАСТИНКИ HYPE ACID",
+        "pathName": "НИКОТИНОВЫЕ ПЛАСТИНКИ",
+        "parentId": "9cbbd5f7-906b-11ef-0a80-08c50013e22a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "be09738e-b3c1-11ef-0a80-0bf6000e4f21",
+        "name": "ПЛАСТИНКИ  HYPE & ЧЕ NADO",
+        "pathName": "НИКОТИНОВЫЕ ПЛАСТИНКИ",
+        "parentId": "9cbbd5f7-906b-11ef-0a80-08c50013e22a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "032f612f-7dcd-11f0-0a80-15260025c26b",
+        "name": "ПЛАСТИНКИ ISTERIKA",
+        "pathName": "НИКОТИНОВЫЕ ПЛАСТИНКИ",
+        "parentId": "9cbbd5f7-906b-11ef-0a80-08c50013e22a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "89540ce5-ac2d-11f0-0a80-0084001bc0a7",
+        "name": "ПЛАСТИНКИ LOST MARY",
+        "pathName": "НИКОТИНОВЫЕ ПЛАСТИНКИ",
+        "parentId": "9cbbd5f7-906b-11ef-0a80-08c50013e22a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "23e4af54-f006-11f0-0a80-0f7100012b92",
+        "name": "ПЛАСТИНКИ LYFT PREMIUM",
+        "pathName": "НИКОТИНОВЫЕ ПЛАСТИНКИ",
+        "parentId": "9cbbd5f7-906b-11ef-0a80-08c50013e22a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "f3ddd850-1c20-11f0-0a80-16840003a67f",
+        "name": "ПЛАСТИНКИ MAD",
+        "pathName": "НИКОТИНОВЫЕ ПЛАСТИНКИ",
+        "parentId": "9cbbd5f7-906b-11ef-0a80-08c50013e22a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "56d8c31c-f006-11f0-0a80-0d9400013e8b",
+        "name": "ПЛАСТИНКИ ODENS",
+        "pathName": "НИКОТИНОВЫЕ ПЛАСТИНКИ",
+        "parentId": "9cbbd5f7-906b-11ef-0a80-08c50013e22a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "57d09785-f005-11f0-0a80-18d500016108",
+        "name": "ПЛАСТИНКИ PODONKI CRITICAL",
+        "pathName": "НИКОТИНОВЫЕ ПЛАСТИНКИ",
+        "parentId": "9cbbd5f7-906b-11ef-0a80-08c50013e22a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "323b0a83-a447-11f0-0a80-080e0025dc64",
+        "name": "ПЛАСТИНКИ PODONKI LAST HAPKA",
+        "pathName": "НИКОТИНОВЫЕ ПЛАСТИНКИ",
+        "parentId": "9cbbd5f7-906b-11ef-0a80-08c50013e22a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "7484073b-a447-11f0-0a80-03c30025f153",
+        "name": "ПЛАСТИНКИ PODONKI & MAD",
+        "pathName": "НИКОТИНОВЫЕ ПЛАСТИНКИ",
+        "parentId": "9cbbd5f7-906b-11ef-0a80-08c50013e22a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "6ececa9f-e6d1-11ef-0a80-0823001eab3f",
+        "name": "ПЛАСТИНКИ RED",
+        "pathName": "НИКОТИНОВЫЕ ПЛАСТИНКИ",
+        "parentId": "9cbbd5f7-906b-11ef-0a80-08c50013e22a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "9fcc520b-f006-11f0-0a80-161100016569",
+        "name": "ПЛАСТИНКИ SIBERIA",
+        "pathName": "НИКОТИНОВЫЕ ПЛАСТИНКИ",
+        "parentId": "9cbbd5f7-906b-11ef-0a80-08c50013e22a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "1732a294-a2dd-11f0-0a80-1887000005fa",
+        "name": "ПЛАСТИНКИ ST BY STALKER",
+        "pathName": "НИКОТИНОВЫЕ ПЛАСТИНКИ",
+        "parentId": "9cbbd5f7-906b-11ef-0a80-08c50013e22a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "49bb425c-5742-11f0-0a80-01cc001012d3",
+        "name": "ПЛАСТИНКИ ЗЛАЯ МОНАШКА",
+        "pathName": "НИКОТИНОВЫЕ ПЛАСТИНКИ",
+        "parentId": "9cbbd5f7-906b-11ef-0a80-08c50013e22a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "76e0c709-af2a-11f0-0a80-1474000a0c58",
+        "name": "BRUSKO",
+        "pathName": "ПОД-СИСТЕМЫ",
+        "parentId": "e1625410-3a23-11ef-0a80-1024000026e8",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "fd040318-3d28-11ef-0a80-0495003e5fcc",
+        "name": "GEEKVAPE",
+        "pathName": "ПОД-СИСТЕМЫ",
+        "parentId": "e1625410-3a23-11ef-0a80-1024000026e8",
+        "isWithSubcategory": true
+    },
+    {
+        "id": "826acb1e-c5fb-11f0-0a80-15e9000b0b24",
+        "name": "HELL VAPE",
+        "pathName": "ПОД-СИСТЕМЫ",
+        "parentId": "e1625410-3a23-11ef-0a80-1024000026e8",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "3d18bdd2-3d29-11ef-0a80-13aa00421c07",
+        "name": "RINCOE",
+        "pathName": "ПОД-СИСТЕМЫ",
+        "parentId": "e1625410-3a23-11ef-0a80-1024000026e8",
+        "isWithSubcategory": true
+    },
+    {
+        "id": "c16a5fa3-3d28-11ef-0a80-016c003fd200",
+        "name": "SMOANT",
+        "pathName": "ПОД-СИСТЕМЫ",
+        "parentId": "e1625410-3a23-11ef-0a80-1024000026e8",
+        "isWithSubcategory": true
+    },
+    {
+        "id": "d1f8fcb6-e720-11ef-0a80-13cb0023a4ec",
+        "name": "VANDY VAPE",
+        "pathName": "ПОД-СИСТЕМЫ",
+        "parentId": "e1625410-3a23-11ef-0a80-1024000026e8",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "ee52c7b7-3d28-11ef-0a80-1024003f2571",
+        "name": "VAPORESSO",
+        "pathName": "ПОД-СИСТЕМЫ",
+        "parentId": "e1625410-3a23-11ef-0a80-1024000026e8",
+        "isWithSubcategory": true
+    },
+    {
+        "id": "35574069-3d29-11ef-0a80-0652003fb958",
+        "name": "VOOPOO",
+        "pathName": "ПОД-СИСТЕМЫ",
+        "parentId": "e1625410-3a23-11ef-0a80-1024000026e8",
+        "isWithSubcategory": true
+    },
+    {
+        "id": "8aab69d7-3d2c-11ef-0a80-0e9b0042249a",
+        "name": "AEGIS B60",
+        "pathName": "ПОД-СИСТЕМЫ/GEEKVAPE",
+        "parentId": "fd040318-3d28-11ef-0a80-0495003e5fcc",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "d15ca13e-e719-11ef-0a80-10f00023d30e",
+        "name": "AEGIS BOOST 3",
+        "pathName": "ПОД-СИСТЕМЫ/GEEKVAPE",
+        "parentId": "fd040318-3d28-11ef-0a80-0495003e5fcc",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "b92c7519-3d2c-11ef-0a80-06520040c0de",
+        "name": "AEGIS HERO 2",
+        "pathName": "ПОД-СИСТЕМЫ/GEEKVAPE",
+        "parentId": "fd040318-3d28-11ef-0a80-0495003e5fcc",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "0a8110bd-e71a-11ef-0a80-0ec900229144",
+        "name": "AEGIS HERO 2 RTE",
+        "pathName": "ПОД-СИСТЕМЫ/GEEKVAPE",
+        "parentId": "fd040318-3d28-11ef-0a80-0495003e5fcc",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "6961e776-92f2-11f0-0a80-142b000ee2fc",
+        "name": "AEGIS HERO 5",
+        "pathName": "ПОД-СИСТЕМЫ/GEEKVAPE",
+        "parentId": "fd040318-3d28-11ef-0a80-0495003e5fcc",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "ea92015d-e719-11ef-0a80-051c0022932f",
+        "name": "AEGIS HERO Q",
+        "pathName": "ПОД-СИСТЕМЫ/GEEKVAPE",
+        "parentId": "fd040318-3d28-11ef-0a80-0495003e5fcc",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "c02ba884-3d2c-11ef-0a80-155400408a0c",
+        "name": "AEGIS NANO 2",
+        "pathName": "ПОД-СИСТЕМЫ/GEEKVAPE",
+        "parentId": "fd040318-3d28-11ef-0a80-0495003e5fcc",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "ca3679aa-e719-11ef-0a80-0944002302da",
+        "name": "GEEKVAPE DIGI MAX R",
+        "pathName": "ПОД-СИСТЕМЫ/GEEKVAPE",
+        "parentId": "fd040318-3d28-11ef-0a80-0495003e5fcc",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "bb98ee8b-e719-11ef-0a80-033800231929",
+        "name": "GEEKVAPE DIGI PRO R",
+        "pathName": "ПОД-СИСТЕМЫ/GEEKVAPE",
+        "parentId": "fd040318-3d28-11ef-0a80-0495003e5fcc",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "4fbd6fd0-3d65-11ef-0a80-0f580001b3c8",
+        "name": "MANTO AIO PLUS",
+        "pathName": "ПОД-СИСТЕМЫ/RINCOE",
+        "parentId": "3d18bdd2-3d29-11ef-0a80-13aa00421c07",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "53b7251d-e721-11ef-0a80-10f00023f5e5",
+        "name": "CHARON RACER",
+        "pathName": "ПОД-СИСТЕМЫ/SMOANT",
+        "parentId": "c16a5fa3-3d28-11ef-0a80-016c003fd200",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "515f2938-3d2b-11ef-0a80-065200407920",
+        "name": "KNIGHT 40",
+        "pathName": "ПОД-СИСТЕМЫ/SMOANT",
+        "parentId": "c16a5fa3-3d28-11ef-0a80-016c003fd200",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "4b87687a-3d2b-11ef-0a80-0f55003fb3d8",
+        "name": "KNIGHT 80",
+        "pathName": "ПОД-СИСТЕМЫ/SMOANT",
+        "parentId": "c16a5fa3-3d28-11ef-0a80-016c003fd200",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "d0c05d7d-3d2a-11ef-0a80-0764003ffb15",
+        "name": "KNIGHT Q",
+        "pathName": "ПОД-СИСТЕМЫ/SMOANT",
+        "parentId": "c16a5fa3-3d28-11ef-0a80-016c003fd200",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "d96aa749-3d2a-11ef-0a80-13aa00427eab",
+        "name": "LEVIN KIT",
+        "pathName": "ПОД-СИСТЕМЫ/SMOANT",
+        "parentId": "c16a5fa3-3d28-11ef-0a80-016c003fd200",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "1bf6155b-3d2b-11ef-0a80-0495003ef008",
+        "name": "PASITO 2",
+        "pathName": "ПОД-СИСТЕМЫ/SMOANT",
+        "parentId": "c16a5fa3-3d28-11ef-0a80-016c003fd200",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "fc655ee8-3d2a-11ef-0a80-0e9b0041be33",
+        "name": "SANTI",
+        "pathName": "ПОД-СИСТЕМЫ/SMOANT",
+        "parentId": "c16a5fa3-3d28-11ef-0a80-016c003fd200",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "fb002ad0-e724-11ef-0a80-051c0022c762",
+        "name": "VAPORESSO APEX",
+        "pathName": "ПОД-СИСТЕМЫ/VAPORESSO",
+        "parentId": "ee52c7b7-3d28-11ef-0a80-1024003f2571",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "a75a07be-e723-11ef-0a80-185200235381",
+        "name": "VAPORESSO ARMOUR G",
+        "pathName": "ПОД-СИСТЕМЫ/VAPORESSO",
+        "parentId": "ee52c7b7-3d28-11ef-0a80-1024003f2571",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "d6819883-e723-11ef-0a80-00b50022cddb",
+        "name": "VAPORESSO  ARMOUR GS",
+        "pathName": "ПОД-СИСТЕМЫ/VAPORESSO",
+        "parentId": "ee52c7b7-3d28-11ef-0a80-1024003f2571",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "f65866a9-e723-11ef-0a80-094400233988",
+        "name": "VAPORESSO  LUXE X",
+        "pathName": "ПОД-СИСТЕМЫ/VAPORESSO",
+        "parentId": "ee52c7b7-3d28-11ef-0a80-1024003f2571",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "36bac080-e724-11ef-0a80-0338002354ab",
+        "name": "VAPORESSO  LUXE XR",
+        "pathName": "ПОД-СИСТЕМЫ/VAPORESSO",
+        "parentId": "ee52c7b7-3d28-11ef-0a80-1024003f2571",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "8786c799-3d2b-11ef-0a80-076400402628",
+        "name": "VAPORESSO XROS 2",
+        "pathName": "ПОД-СИСТЕМЫ/VAPORESSO",
+        "parentId": "ee52c7b7-3d28-11ef-0a80-1024003f2571",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "ce465ac8-3d2b-11ef-0a80-0e9b0041f4a3",
+        "name": "VAPORESSO XROS 3 MINI",
+        "pathName": "ПОД-СИСТЕМЫ/VAPORESSO",
+        "parentId": "ee52c7b7-3d28-11ef-0a80-1024003f2571",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "d70fadec-3d2b-11ef-0a80-11700041a0e9",
+        "name": "VAPORESSO XROS 4",
+        "pathName": "ПОД-СИСТЕМЫ/VAPORESSO",
+        "parentId": "ee52c7b7-3d28-11ef-0a80-1024003f2571",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "0c804f12-3d2c-11ef-0a80-09d80041c0fd",
+        "name": "VAPORESSO XROS 4 MINI",
+        "pathName": "ПОД-СИСТЕМЫ/VAPORESSO",
+        "parentId": "ee52c7b7-3d28-11ef-0a80-1024003f2571",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "8fc8f544-347d-11f0-0a80-1adf0041d368",
+        "name": "VAPORESSO XROS 5",
+        "pathName": "ПОД-СИСТЕМЫ/VAPORESSO",
+        "parentId": "ee52c7b7-3d28-11ef-0a80-1024003f2571",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "a9eb615a-347d-11f0-0a80-0835003c89b7",
+        "name": "VAPORESSO XROS 5 MINI",
+        "pathName": "ПОД-СИСТЕМЫ/VAPORESSO",
+        "parentId": "ee52c7b7-3d28-11ef-0a80-1024003f2571",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "bb440b0e-3d2b-11ef-0a80-15540040539e",
+        "name": "VAPORESSO XROS MINI",
+        "pathName": "ПОД-СИСТЕМЫ/VAPORESSO",
+        "parentId": "ee52c7b7-3d28-11ef-0a80-1024003f2571",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "b1e4dedc-3d2b-11ef-0a80-065200408d4f",
+        "name": "VAPORESSO XROS NANO 4",
+        "pathName": "ПОД-СИСТЕМЫ/VAPORESSO",
+        "parentId": "ee52c7b7-3d28-11ef-0a80-1024003f2571",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "5cae926a-3d2b-11ef-0a80-0f55003fb694",
+        "name": "VAPORESSO XROS PRO",
+        "pathName": "ПОД-СИСТЕМЫ/VAPORESSO",
+        "parentId": "ee52c7b7-3d28-11ef-0a80-1024003f2571",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "b2c87f9e-a52d-11f0-0a80-18e9000022c9",
+        "name": "VAPORESSO XROS PRO 2",
+        "pathName": "ПОД-СИСТЕМЫ/VAPORESSO",
+        "parentId": "ee52c7b7-3d28-11ef-0a80-1024003f2571",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "073d97e9-e726-11ef-0a80-161100251b00",
+        "name": "VOOPOO DRAG S2",
+        "pathName": "ПОД-СИСТЕМЫ/VOOPOO",
+        "parentId": "35574069-3d29-11ef-0a80-0652003fb958",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "be25285d-e725-11ef-0a80-09440023414d",
+        "name": "VOOPOO DRAG X 2",
+        "pathName": "ПОД-СИСТЕМЫ/VOOPOO",
+        "parentId": "35574069-3d29-11ef-0a80-0652003fb958",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "f2459859-3d2c-11ef-0a80-0495003f58f3",
+        "name": "VOOPOO VMATE PRO",
+        "pathName": "ПОД-СИСТЕМЫ/VOOPOO",
+        "parentId": "35574069-3d29-11ef-0a80-0652003fb958",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "d6d13ed9-f478-11ef-0a80-167d000152c5",
+        "name": "13ШКА ( 150 MG )",
+        "pathName": "СНЮС",
+        "parentId": "61d02ab2-74e1-11ef-0a80-13bf0010726a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "ab90401b-938c-11ef-0a80-00350021536e",
+        "name": "ARQA CS ( 120 MG )",
+        "pathName": "СНЮС",
+        "parentId": "61d02ab2-74e1-11ef-0a80-13bf0010726a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "c7c58066-938c-11ef-0a80-01ac0020f30f",
+        "name": "ARQA DOTA ( 120 MG )",
+        "pathName": "СНЮС",
+        "parentId": "61d02ab2-74e1-11ef-0a80-13bf0010726a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "93232cc1-b3c1-11ef-0a80-185a000e5f57",
+        "name": "ARQA  LITE ENERGY ( 120 MG )",
+        "pathName": "СНЮС",
+        "parentId": "61d02ab2-74e1-11ef-0a80-13bf0010726a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "82c16c74-938c-11ef-0a80-0b810020e446",
+        "name": "ARQA SLIM ( 100 MG )",
+        "pathName": "СНЮС",
+        "parentId": "61d02ab2-74e1-11ef-0a80-13bf0010726a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "5e404d48-938d-11ef-0a80-0ded0020b006",
+        "name": "CHN ( 45 MG )",
+        "pathName": "СНЮС",
+        "parentId": "61d02ab2-74e1-11ef-0a80-13bf0010726a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "0cce8e49-938d-11ef-0a80-032e0020f93e",
+        "name": "D.L.T. A  (COLOR, RED BULL, ADRENALINE) ( 150 MG )",
+        "pathName": "СНЮС",
+        "parentId": "61d02ab2-74e1-11ef-0a80-13bf0010726a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "719dbb80-f476-11ef-0a80-167d00012864",
+        "name": "DRYMOST ARMAGEDDON ( 200 MG )",
+        "pathName": "СНЮС",
+        "parentId": "61d02ab2-74e1-11ef-0a80-13bf0010726a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "427dd6c2-f476-11ef-0a80-02d7000114d7",
+        "name": "DRYMOST STORM ( 150 MG )",
+        "pathName": "СНЮС",
+        "parentId": "61d02ab2-74e1-11ef-0a80-13bf0010726a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "12ca9066-a67e-11ef-0a80-0d5d0013ec1d",
+        "name": "FAFF R AND M ( 150 MG )",
+        "pathName": "СНЮС",
+        "parentId": "61d02ab2-74e1-11ef-0a80-13bf0010726a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "3ded18fa-a67e-11ef-0a80-096c0013f1d6",
+        "name": "FAFF SHOOTER  ( 150 MG )",
+        "pathName": "СНЮС",
+        "parentId": "61d02ab2-74e1-11ef-0a80-13bf0010726a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "a96181d2-a67d-11ef-0a80-119e001366a7",
+        "name": "FAFF ЯБЛОЧКИ ( 75 MG )",
+        "pathName": "СНЮС",
+        "parentId": "61d02ab2-74e1-11ef-0a80-13bf0010726a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "24684e9e-b650-11f0-0a80-1971000e2e60",
+        "name": "FEDRS ICE COOL ДУБЛЬ ( 80 MG )",
+        "pathName": "СНЮС",
+        "parentId": "61d02ab2-74e1-11ef-0a80-13bf0010726a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "1fec711b-3bee-11f0-0a80-112300008002",
+        "name": "GANG IMMORTAL ( 150 MG )",
+        "pathName": "СНЮС",
+        "parentId": "61d02ab2-74e1-11ef-0a80-13bf0010726a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "f94ad534-1c1b-11f0-0a80-0298000269c2",
+        "name": "GLITCH POUCHES ( 200 MG )",
+        "pathName": "СНЮС",
+        "parentId": "61d02ab2-74e1-11ef-0a80-13bf0010726a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "cce317dc-938d-11ef-0a80-1046002108f7",
+        "name": "GUCCI ( 150 MG )",
+        "pathName": "СНЮС",
+        "parentId": "61d02ab2-74e1-11ef-0a80-13bf0010726a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "91652fa0-d278-11ef-0a80-1ad1000e92bc",
+        "name": "HOTSPOT FRZ ( 120 MG )",
+        "pathName": "СНЮС",
+        "parentId": "61d02ab2-74e1-11ef-0a80-13bf0010726a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "b5d73263-f478-11ef-0a80-0e1e0001335b",
+        "name": "ICEBERG EXTREME ( 130 MG )",
+        "pathName": "СНЮС",
+        "parentId": "61d02ab2-74e1-11ef-0a80-13bf0010726a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "9c974e38-f009-11f0-0a80-15d8000143c8",
+        "name": "ICEBERG ULTRA (150 MG )",
+        "pathName": "СНЮС",
+        "parentId": "61d02ab2-74e1-11ef-0a80-13bf0010726a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "15d0a1d1-d279-11ef-0a80-0079000f3e63",
+        "name": "ICEBURN  ( 100 MG )",
+        "pathName": "СНЮС",
+        "parentId": "61d02ab2-74e1-11ef-0a80-13bf0010726a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "90e7b63f-a2a7-11f0-0a80-0d1c004a4124",
+        "name": "ICEBURN BLACK EDITION ( 150 MG )",
+        "pathName": "СНЮС",
+        "parentId": "61d02ab2-74e1-11ef-0a80-13bf0010726a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "ae849526-1d28-11f0-0a80-1aa70008397d",
+        "name": "ICEBURN EXTREME ( 150 MG )",
+        "pathName": "СНЮС",
+        "parentId": "61d02ab2-74e1-11ef-0a80-13bf0010726a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "42d3d049-d279-11ef-0a80-01c1000ec616",
+        "name": "ICEBURN GHETTO ( 150 MG )",
+        "pathName": "СНЮС",
+        "parentId": "61d02ab2-74e1-11ef-0a80-13bf0010726a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "7ab1943b-f007-11f0-0a80-106800012ae2",
+        "name": "ICEBURN MEDIUM ( 75 MG )",
+        "pathName": "СНЮС",
+        "parentId": "61d02ab2-74e1-11ef-0a80-13bf0010726a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "2f7cc96a-938d-11ef-0a80-0b810020f3df",
+        "name": "ISTERIKA & HOTSPOT ( 180 MG )",
+        "pathName": "СНЮС",
+        "parentId": "61d02ab2-74e1-11ef-0a80-13bf0010726a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "0a930ad5-a841-11f0-0a80-0d2e00376708",
+        "name": "ISTERIKA &  ГРЕХ ( 190 MG )",
+        "pathName": "СНЮС",
+        "parentId": "61d02ab2-74e1-11ef-0a80-13bf0010726a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "5bcfc68c-f473-11ef-0a80-02d7000102c3",
+        "name": "KASTA ANIME ( 120 MG )",
+        "pathName": "СНЮС",
+        "parentId": "61d02ab2-74e1-11ef-0a80-13bf0010726a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "87f4f981-1c1f-11f0-0a80-00910003033c",
+        "name": "MAD & RED LIMITED ( 150 MG )",
+        "pathName": "СНЮС",
+        "parentId": "61d02ab2-74e1-11ef-0a80-13bf0010726a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "1c3faff5-938e-11ef-0a80-114300216f28",
+        "name": "PEREDOZ ( 170 MG )",
+        "pathName": "СНЮС",
+        "parentId": "61d02ab2-74e1-11ef-0a80-13bf0010726a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "ee19c6ed-a447-11f0-0a80-192d00253bcf",
+        "name": "PODONKI SLICK ( 150 MG )",
+        "pathName": "СНЮС",
+        "parentId": "61d02ab2-74e1-11ef-0a80-13bf0010726a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "e4b02a36-f00c-11f0-0a80-044900013d6f",
+        "name": "PZDC BY FAFF ( 150 MG )",
+        "pathName": "СНЮС",
+        "parentId": "61d02ab2-74e1-11ef-0a80-13bf0010726a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "2cb0c7d6-f478-11ef-0a80-07b700011b08",
+        "name": "RED ( 170 MG )",
+        "pathName": "СНЮС",
+        "parentId": "61d02ab2-74e1-11ef-0a80-13bf0010726a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "c2fff7cc-d4bd-11ef-0a80-0e8a000a8256",
+        "name": "RED KILLER ( 170 MG )",
+        "pathName": "СНЮС",
+        "parentId": "61d02ab2-74e1-11ef-0a80-13bf0010726a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "cd5a2184-7438-11f0-0a80-16b000094a67",
+        "name": "SIBERIA SLIM ( 150 MG )",
+        "pathName": "СНЮС",
+        "parentId": "61d02ab2-74e1-11ef-0a80-13bf0010726a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "b4481a6b-d278-11ef-0a80-0fa2000e38ed",
+        "name": "STALKER ( 150 MG )",
+        "pathName": "СНЮС",
+        "parentId": "61d02ab2-74e1-11ef-0a80-13bf0010726a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "d33c2812-d278-11ef-0a80-158e000e4621",
+        "name": "STALKER  ( 200 MG )",
+        "pathName": "СНЮС",
+        "parentId": "61d02ab2-74e1-11ef-0a80-13bf0010726a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "323ec898-a2a9-11f0-0a80-056400493ec9",
+        "name": "ST BY STALKER ( 75 MG )",
+        "pathName": "СНЮС",
+        "parentId": "61d02ab2-74e1-11ef-0a80-13bf0010726a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "df25707e-3bf1-11f0-0a80-18d20000be4c",
+        "name": "STORM BY ШОК ( 220 MG )",
+        "pathName": "СНЮС",
+        "parentId": "61d02ab2-74e1-11ef-0a80-13bf0010726a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "1a0e77ac-b646-11f0-0a80-15a5000c0031",
+        "name": "VELO ДУБЛЬ ( 80 MG )",
+        "pathName": "СНЮС",
+        "parentId": "61d02ab2-74e1-11ef-0a80-13bf0010726a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "1da3489e-ed29-11ef-0a80-03fb003149b1",
+        "name": "АНАРХИЯ ( 150 MG )",
+        "pathName": "СНЮС",
+        "parentId": "61d02ab2-74e1-11ef-0a80-13bf0010726a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "4461950c-cace-11f0-0a80-1504001017d5",
+        "name": "ГРЕХ ( 259 MG )",
+        "pathName": "СНЮС",
+        "parentId": "61d02ab2-74e1-11ef-0a80-13bf0010726a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "4892d596-ed29-11ef-0a80-1169003100d9",
+        "name": "ЗЛАЯ МОНАШКА ( 120 MG )",
+        "pathName": "СНЮС",
+        "parentId": "61d02ab2-74e1-11ef-0a80-13bf0010726a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "5b326b8d-b643-11f0-0a80-1733000bb4be",
+        "name": "ТАБАЧНЫЙ ODENS COLD DRY 16ГР ДУБЛЬ  ( 60 MG )",
+        "pathName": "СНЮС",
+        "parentId": "61d02ab2-74e1-11ef-0a80-13bf0010726a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "fffe686f-b644-11f0-0a80-15a5000bbc27",
+        "name": "ТАБАЧНЫЙ SIBERIA 13ГР ДУБЛЬ ( 60 MG )",
+        "pathName": "СНЮС",
+        "parentId": "61d02ab2-74e1-11ef-0a80-13bf0010726a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "5ff31e05-3bf2-11f0-0a80-06f10000be92",
+        "name": "ШОК ( 150 MG )",
+        "pathName": "СНЮС",
+        "parentId": "61d02ab2-74e1-11ef-0a80-13bf0010726a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "cb35995d-f475-11ef-0a80-10450001300f",
+        "name": "ШОК BY X ( 201 MG )",
+        "pathName": "СНЮС",
+        "parentId": "61d02ab2-74e1-11ef-0a80-13bf0010726a",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "7077f02a-c12e-11f0-0a80-1aae000678af",
+        "name": "AAOK 17.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "b9216892-4920-11f0-0a80-0926003686e6",
+        "name": "ARTERY 50.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "28a321e5-97e0-11f0-0a80-01600000f42a",
+        "name": "BEYOND 20.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "98c7ad16-c132-11f0-0a80-01d000076e7a",
+        "name": "BIMO GALAXY 50.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "3e6caeac-c143-11f0-0a80-0c96000b58f6",
+        "name": "BOOD TWINS 46.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "70f27e91-97df-11f0-0a80-00700000d9b1",
+        "name": "BOU 18.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "6d5fd7aa-59c9-11f0-0a80-0dc8001ac11b",
+        "name": "BRUSKO & LANAVAPE 5000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "0a5373a1-ee22-11ef-0a80-084e001458b5",
+        "name": "BUBBLE MON 10.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "23b385f7-bc9e-11f0-0a80-09780019b4ec",
+        "name": "BUBBLE MON 15.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "2fc3bf6a-d511-11ef-0a80-01d20012d14e",
+        "name": "CHILLAX 1500 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "cd9c3cb3-ab05-11ef-0a80-0e3300334a76",
+        "name": "CHILLAX AIR PRO 4500 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "f7dfbf5e-c123-11f0-0a80-0bbe00044898",
+        "name": "CHILLAX SHAKE 25.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "e57ee77c-97de-11f0-0a80-1c600000c946",
+        "name": "CHRIS BROWN 15.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "869c2faa-f76b-11ef-0a80-1919000f82fd",
+        "name": "COMPAK 15000 ( 20 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "767e7e95-d7d9-11ef-0a80-068e004183a3",
+        "name": "DOWIN 15.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "30dfe5ce-331a-11f0-0a80-0f86002ead7e",
+        "name": "ELF BAR BC 18.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "a014e23b-d512-11ef-0a80-16cd00134e63",
+        "name": "ELF BAR FS 18.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "bdd6f16c-d512-11ef-0a80-19c600130ccf",
+        "name": "ELF BAR GH 23.000 ( 60 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "948311c3-9847-11f0-0a80-17d80004b6f4",
+        "name": "ELF BAR GH 33.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "4b5eab3f-ee20-11ef-0a80-084e00144532",
+        "name": "ELF BAR ICE KING 30.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "2a6904bd-331b-11f0-0a80-055a002f444a",
+        "name": "ELF BAR NIC KING 30.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "34f94bb6-d7ef-11ef-0a80-03bf00446bf6",
+        "name": "ELF BAR PLANET 25.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "7a826dad-9878-11f0-0a80-06660010be82",
+        "name": "ELF BAR SOUR KING 30.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "dc4883e6-9878-11f0-0a80-072e00106fe0",
+        "name": "ELF BAR SWEET KING 30.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "b6a7f05f-331a-11f0-0a80-03ee002e1382",
+        "name": "ELF BAR TOUCH 20.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "85b5a91c-1301-11f0-0a80-0c530023ef80",
+        "name": "ELUX 15000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "e3d1821e-3c8e-11f0-0a80-015000113c9f",
+        "name": "FIREROSE JUST  FILL IT 7500 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "9f59679d-97e0-11f0-0a80-1bc20000ee21",
+        "name": "FLABAR 25.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "4a9e9550-d513-11ef-0a80-11f50012df27",
+        "name": "FUNKY LANDS 10.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "61eedaf9-d513-11ef-0a80-024e0012cf86",
+        "name": "FUNKY LANDS 15.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "6f6839c6-d513-11ef-0a80-068e0015d2bf",
+        "name": "FUNKY LANDS 7000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "1fbecbb4-d514-11ef-0a80-072500135cb4",
+        "name": "GEEK BAR WATT 20.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "48c8e3a8-d0cf-11ef-0a80-0e6f001f021f",
+        "name": "HQD 5000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "eb14b0a6-c148-11f0-0a80-027c000c34fa",
+        "name": "IJOY URANUS 25.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "8ed5cb54-4926-11f0-0a80-13c80036c81b",
+        "name": "INFLAVE FLEX 12.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "4e970f6f-4927-11f0-0a80-02480035b091",
+        "name": "INFLAVE ONYX 18.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "ea62d721-ede9-11ef-0a80-1637000d23cd",
+        "name": "INFLAVE SPIN 8000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "31b63650-ede9-11ef-0a80-04c1000c9bf8",
+        "name": "INSTABAR 20.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "574422bd-c152-11f0-0a80-0098000d761a",
+        "name": "IZY MAX 5000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "b4d95e9a-c151-11f0-0a80-139d000dd1a7",
+        "name": "IZY MEGA 10.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "7cefc487-99f9-11f0-0a80-1506000bb162",
+        "name": "KLIKLAK 4000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "da56505d-c137-11f0-0a80-01d000088d07",
+        "name": "LEAF BAR 8000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "a6cd18bb-d514-11ef-0a80-024e0012d2f5",
+        "name": "LOST MARY 10.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "ad1f6d6b-d514-11ef-0a80-024e0012d2fa",
+        "name": "LOST MARY 16.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "bff4afb9-9887-11f0-0a80-1c600012a2e1",
+        "name": "LOST MARY COMBO 20.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "1b9553a8-af71-11f0-0a80-0c0d0014f197",
+        "name": "LOST MARY & FUNKY LANDS  SONIC 30.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "3d6cad30-af7c-11f0-0a80-17210015ada3",
+        "name": "LOST MARY & FUNKY LANDS SONIC - X ( БЕЗ ДЫМА ) 30.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "ba74f31a-3c03-11f0-0a80-112300016760",
+        "name": "LOST MARY &  FUNKY LANDS VIPER 30000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "65c6dec4-fe65-11ef-0a80-1693000c4e2d",
+        "name": "LOST MARY MIXER 25.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "8e084ef7-4921-11f0-0a80-0b8b00352c46",
+        "name": "LOST MARY  MO 30.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "bd55d68f-d514-11ef-0a80-01d20012dda8",
+        "name": "LOST MARY MO GOLD 10.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "53da04bf-3c04-11f0-0a80-0b66000195c3",
+        "name": "LOST MARY OS 25.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "7e9c661b-9846-11f0-0a80-06660004c1af",
+        "name": "LOST MARY PUFFBALL 30.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "03fa677a-3d48-11f0-0a80-0d93000cdf0e",
+        "name": "LOST MARY  X-LINK 20000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "5b31fe1e-f062-11f0-0a80-1bbb00098418",
+        "name": "LOST MARY X-LINK  КАРТРИДЖ 20000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "46a32b11-626e-11f0-0a80-136100009fce",
+        "name": "LOST VAPE MOVEMENT 18.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "cfeb304b-c130-11f0-0a80-1bf70006ab8f",
+        "name": "MASKKING ROKI X 18.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "b61cec38-f762-11ef-0a80-15b9000f5a43",
+        "name": "MAX FLY 30000 + НАУШНИКИ  ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "1760175d-f764-11ef-0a80-141f000fd53b",
+        "name": "MAX FLY 46000 + НАУШНИКИ  ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "1b310307-f761-11ef-0a80-141f000f9678",
+        "name": "MAX FLY  SMARTPHONE ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "f53d0488-95fa-11ef-0a80-0b850014bbff",
+        "name": "MFU 40.000 ( 20 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "3825f392-bca2-11f0-0a80-15c3001b51b4",
+        "name": "MOBO 18.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "29c64760-4d11-11f0-0a80-17e20011c081",
+        "name": "MONSTER BARS 6000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "3f60067a-f767-11ef-0a80-1a36000fe07d",
+        "name": "MOSMO GT 40000 ( 20 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "e2309e9d-f765-11ef-0a80-1919000f2a69",
+        "name": "MOSMO SAGE 40000 ( 20 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "d3912604-f764-11ef-0a80-15b9000f8eab",
+        "name": "MOSMO STORM X 16000 ( 20 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "0513309a-a1b9-11ef-0a80-06b60010d136",
+        "name": "MOTI  ULTRA MAX 15.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "c701bf85-97dd-11f0-0a80-1bc20000d062",
+        "name": "NEXA 30.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "59752297-eef9-11ef-0a80-08550001241d",
+        "name": "PODONKI 10.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "52e03da4-97dd-11f0-0a80-09100000b435",
+        "name": "PRAZE 18.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "f06decc0-97dc-11f0-0a80-02c00000ada9",
+        "name": "PRAZE 20.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "01949703-d516-11ef-0a80-07250013619d",
+        "name": "PUFFMI DUMESH 10.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "4a506801-987b-11f0-0a80-1c60001060aa",
+        "name": "PUFFMI DURA 8000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "2731c7fb-d516-11ef-0a80-0d210012beeb",
+        "name": "PUFFMI DURA 9000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "a1ec7b92-9845-11f0-0a80-17d800045591",
+        "name": "PUFFMI FLORA 25.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "1caa9860-d516-11ef-0a80-10ba0013ad72",
+        "name": "PUFFMI PURE 12.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "84f9e1ca-331e-11f0-0a80-18b0002e2fec",
+        "name": "PUFFMI PURE  20000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "1b0b63cc-331d-11f0-0a80-055a002f668d",
+        "name": "PUFFMI ROCK 12.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "c1437519-331d-11f0-0a80-09e0002ed09a",
+        "name": "PUFFMI TANK 16.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "e81cf3fd-99f8-11f0-0a80-0f50000b872d",
+        "name": "PURE 4000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "71089b39-d516-11ef-0a80-172a0012dbe6",
+        "name": "SMOD 30.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "6312fd42-3319-11f0-0a80-0f86002ea137",
+        "name": "SNOOPY SMOKE 40.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "de3dfcd4-626e-11f0-0a80-03c70000be76",
+        "name": "SOLARIS 25.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "9ab90672-c145-11f0-0a80-0bbe000b9aab",
+        "name": "SOLO BAR 50.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "fa605d4e-74c7-11ef-0a80-18b70009b2b7",
+        "name": "TWINENGINE 15.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "a1dbd3dc-cec1-11f0-0a80-0d2f0052edd1",
+        "name": "UPENDS BT 18.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "67f8086b-cec2-11f0-0a80-1a0e0052aca7",
+        "name": "UPENDS MIRROR PRO  15.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "55d51411-cec0-11f0-0a80-140200529723",
+        "name": "UPENDS STAR X  20.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "6dfeaee5-cec3-11f0-0a80-0d2f00534104",
+        "name": "VFLY 32.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "d8c3065a-2749-11f0-0a80-06960028f7fa",
+        "name": "VOZOL GEAR SHISHA 25.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "03bedb3b-d517-11ef-0a80-11f50012f862",
+        "name": "VOZOL POWER 20.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "fa7ea86a-4924-11f0-0a80-17c800362e6f",
+        "name": "VOZOL RAVE 46.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "09b038d9-d517-11ef-0a80-03bf0012c02a",
+        "name": "VOZOL VISTA 20.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "3b9a8f6d-d517-11ef-0a80-16cd00135fb6",
+        "name": "VVILD 28.000 ( 70 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "2bdb8a90-f855-11ef-0a80-115900006314",
+        "name": "WAKA E.T 35.000 ( 70 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "3cdd967b-f855-11ef-0a80-1a3900006118",
+        "name": "WAKA E.T 41.000 ( 70 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "4339ff0b-af32-11f0-0a80-1721000c68f3",
+        "name": "WAKA EXTRA 20.000 ( 80 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "6366211b-a833-11f0-0a80-17f700358b29",
+        "name": "WAKA XLAND 15.000 ( 70 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "6bd94996-9f77-11ef-0a80-13520027a26f",
+        "name": "YOOZ 25.000 ( ТЕЛЕФОН ) ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    },
+    {
+        "id": "08ef4e56-ee34-11ef-0a80-14050015134e",
+        "name": "РИК И МОРТИ НА ЗАМЕРЗОНЕ  20.000 ( 50 MG )",
+        "pathName": "ЭЛЕКТРОНКИ",
+        "parentId": "526d9824-3d2e-11ef-0a80-0f5500406432",
+        "isWithSubcategory": false
+    }
+]
